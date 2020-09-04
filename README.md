@@ -30,6 +30,7 @@
 
 ## 🌟 忽略图
 
+![](https://github.com/zoo-js/zoo/blob/master/assets/zoo.PNG?raw=true)
 
 ## 💖 目的
 
