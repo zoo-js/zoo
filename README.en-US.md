@@ -1,10 +1,10 @@
-# 🌈 萌宠动物园
+# 🌈 Cute pet zoo
 
-萌宠动物园开业啦，想拥有下面各种萌萌的宠物吗？快来领养哦。
+The cute pet zoo has opened, do you want to have the cute pets below? Come and adopt it.
 
-简体中文 | [English](./README.en-US.md)
+[简体中文](./README.md) | English
 
-## ✨ 萌宠列表
+## ✨ Cute pet list
 
 | [<img src="https://avatars0.githubusercontent.com/u/70745181?s=200&v=4" width="50" />](https://github.com/cat-js) | [<img src="https://avatars1.githubusercontent.com/u/70746150?s=200&v=4" width="50" />](https://github.com/dog-js) | [<img src="https://avatars2.githubusercontent.com/u/70746215?s=200&v=4" width="50" />](https://github.com/ant-js) | [<img src="https://avatars1.githubusercontent.com/u/70749293?s=200&v=4" width="50" />](https://github.com/pig-js) | [<img src="https://avatars1.githubusercontent.com/u/70750007?s=200&v=4" width="50" />](https://github.com/sheep-js) | [<img src="https://avatars1.githubusercontent.com/u/70750089?s=200&v=4" width="50" />](https://github.com/koala-js) | [<img src="https://avatars1.githubusercontent.com/u/70750531?s=200&v=4" width="50" />](https://github.com/monkey-js) |
 | -- | -- | -- |--  | -- | -- | -- |
@@ -30,16 +30,16 @@
 | -- | -- | -- |--  | -- | -- | -- |
 | giraffe 长颈鹿 | reindeer 驯鹿 | orangutan 猩猩 | hedgehog 刺猬| cicada 蝉 | kitten 小猫| goldfish 金鱼 |
 
-## 🌟 预览图
+## 🌟 Preview
 
 ![](https://github.com/zoo-js/zoo/blob/master/assets/zoo.PNG?raw=true)
 
-## 💖 目的
+## 💖 Purpose
 
-- 🎁 为了好玩、好看！
-- 🙂 动物是我们的朋友，请爱惜！
-- 🌏 我们只有一个世界！
+- 🎁 For fun and good-looking!
+- 🙂 Animals are our friends, please cherish!
+- 🌏 We only have one world!
 
-## 💄 如何领养？
+## 💄 How to adopt?
 
-新开一个 [issue](https://github.com/zoo-js/zoo/issues)，填写自己想要领养（加入）小萌宠。同时原则上仅支持单人领养**3只**小宠物，请大家谨慎挑选。谢谢大家！
+Open a new [issue](https://github.com/zoo-js/zoo/issues) and fill in the pet that you want to adopt (join). At the same time, only one person adopts **3** small pets, please choose carefully. thank you all!
