@@ -30,6 +30,18 @@
 | -- | -- | -- |--  | -- | -- | -- |
 | giraffe 长颈鹿 | reindeer 驯鹿 | orangutan 猩猩 | hedgehog 刺猬| cicada 蝉 | kitten 小猫| goldfish 金鱼 |
 
+| [<img src="https://avatars1.githubusercontent.com/u/70783027?s=200&v=4" width="50" />](https://github.com/tortoise-js) | [<img src="https://avatars3.githubusercontent.com/u/70783043?s=200&v=4" width="50" />](https://github.com/penguin-js) | [<img src="https://avatars3.githubusercontent.com/u/70783073?s=200&v=4" width="50" />](https://github.com/totoro-js) | [<img src="https://avatars3.githubusercontent.com/u/70783107?s=200&v=4" width="50" />](https://github.com/pikachu-js) | [<img src="https://avatars0.githubusercontent.com/u/70783229?s=200&v=4" width="50" />](https://github.com/crab-js) | [<img src="https://avatars0.githubusercontent.com/u/70783273?s=200&v=4" width="50" />](https://github.com/rhinoceros-js) | [<img src="https://avatars2.githubusercontent.com/u/70783302?s=200&v=4" width="50" />](https://github.com/rabbit-js) |
+| -- | -- | -- |--  | -- | -- | -- |
+| tortoise 乌龟 | penguin 企鹅 | totoro 龙猫 | pikachu 皮卡丘 | crab 螃蟹 | rhinoceros 犀牛 | rabbit 兔子 |
+
+| [<img src="https://avatars1.githubusercontent.com/u/70783423?s=200&v=4" width="50" />](https://github.com/unicorn-js) | [<img src="https://avatars2.githubusercontent.com/u/70783453?s=200&v=4" width="50" />](https://github.com/squirrel-js) | [<img src="https://avatars1.githubusercontent.com/u/70783479?s=200&v=4" width="50" />](https://github.com/chick-js) | [<img src="https://avatars3.githubusercontent.com/u/70783502?s=200&v=4" width="50">](https://github.com/clownfish-js) | [<img src="https://avatars0.githubusercontent.com/u/70783522?s=200&v=4" width="50" />](https://github.com/dolphin-js) | [<img src="https://avatars2.githubusercontent.com/u/70783585?s=200&v=4" width="50" />](https://github.com/bat-js) | [<img src="https://avatars0.githubusercontent.com/u/70783684?s=200&v=4" width="50" />](https://github.com/honeybee-js) |
+| -- | -- | -- |--  | -- | -- | -- |
+| unicorn 独角兽 | squirrel 松鼠 | chick 小鸡 | clownfish 小丑鱼 | dolphin 海豚 | bat 蝙蝠 | honeybee 小蜜蜂 |
+
+| [<img src="https://avatars3.githubusercontent.com/u/70783705?s=200&v=4" width="50" />](https://github.com/pigeon-js) | [<img src="https://avatars2.githubusercontent.com/u/70783812?s=200&v=4" width="50" />](https://github.com/shark-ts) | [<img src="https://avatars3.githubusercontent.com/u/70783905?s=200&v=4" width="50" />](https://github.com/dragon-ts) | [<img src="https://avatars0.githubusercontent.com/u/70784646?s=200&v=4" width="50" />](https://github.com/otter-ts) |
+| -- | -- | -- |--  |
+| pigeon 鸽子 | shark 鲨鱼 | dragon 龙 | otter 水獭 |
+
 ## 🌟 预览图
 
 ![](https://github.com/zoo-js/zoo/blob/master/assets/zoo.PNG?raw=true)
@@ -42,4 +54,4 @@
 
 ## 💄 如何领养？
 
-新开一个 [issue](https://github.com/zoo-js/zoo/issues)，填写自己想要领养（加入）小萌宠。同时原则上仅支持单人领养**3只**小宠物，请大家谨慎挑选。谢谢大家！
+新开一个 [issue](https://github.com/zoo-js/zoo/issues)，填写自己想要领养（加入）小萌宠。同时原则上仅支持单人领养**3只**小宠物，请大家谨慎挑选。一经挑选，请勿随意抛弃。谢谢大家！
