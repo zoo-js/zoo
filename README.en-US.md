@@ -38,9 +38,9 @@ The cute pet zoo has opened, do you want to have the cute pets below? Come and a
 | -- | -- | -- |--  | -- | -- | -- |
 | unicorn 独角兽 | squirrel 松鼠 | chick 小鸡 | clownfish 小丑鱼 | dolphin 海豚 | bat 蝙蝠 | honeybee 小蜜蜂 |
 
-| [<img src="https://avatars3.githubusercontent.com/u/70783705?s=200&v=4" width="50" />](https://github.com/pigeon-js) | [<img src="https://avatars2.githubusercontent.com/u/70783812?s=200&v=4" width="50" />](https://github.com/shark-ts) | [<img src="https://avatars3.githubusercontent.com/u/70783905?s=200&v=4" width="50" />](https://github.com/dragon-ts) | [<img src="https://avatars0.githubusercontent.com/u/70784646?s=200&v=4" width="50" />](https://github.com/otter-ts) |
-| -- | -- | -- |--  |
-| pigeon 鸽子 | shark 鲨鱼 | dragon 龙 | otter 水獭 |
+| [<img src="https://avatars3.githubusercontent.com/u/70783705?s=200&v=4" width="50" />](https://github.com/pigeon-js) | [<img src="https://avatars2.githubusercontent.com/u/70783812?s=200&v=4" width="50" />](https://github.com/shark-ts) | [<img src="https://avatars3.githubusercontent.com/u/70783905?s=200&v=4" width="50" />](https://github.com/dragon-ts) | [<img src="https://avatars0.githubusercontent.com/u/70784646?s=200&v=4" width="50" />](https://github.com/otter-ts) | [<img src="https://avatars3.githubusercontent.com/u/70870347?s=200&v=4" width="50" />](https://github.com/wolf-ts) |
+| -- | -- | -- |--  | -- |
+| pigeon 鸽子 | shark 鲨鱼 | dragon 龙 | otter 水獭 | wolf 狼 |
 
 ## 🌟 Preview
 
