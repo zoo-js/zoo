@@ -44,7 +44,7 @@
 
 ## 🌟 预览图
 
-![](https://github.com/zoo-js/zoo/blob/master/assets/zoo.PNG?raw=true)
+![](https://github.com/zoo-js/zoo/blob/master/assets/zoo.png?raw=true)
 
 ## 💖 目的
 
