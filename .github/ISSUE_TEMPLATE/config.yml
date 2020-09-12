@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Create new issue
+    url: https://zoo-js.github.io/zoo-issue-helper/
+    about: You can preview and choose to apply online, or you can apply directly through the link below.
