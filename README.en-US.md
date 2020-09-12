@@ -4,6 +4,8 @@ The cute pet zoo has opened, do you want to have the cute pets below? Come and a
 
 [简体中文](./README.md) | English
 
+Preview online collection: https://zoo-js.github.io/zoo-issue-helper/
+
 ## ✨ Cute pet list
 
 | [<img src="https://avatars0.githubusercontent.com/u/70745181?s=200&v=4" width="50" />](https://github.com/cat-js) | [<img src="https://avatars1.githubusercontent.com/u/70746150?s=200&v=4" width="50" />](https://github.com/dog-js) | [<img src="https://avatars2.githubusercontent.com/u/70746215?s=200&v=4" width="50" />](https://github.com/ant-js) | [<img src="https://avatars1.githubusercontent.com/u/70749293?s=200&v=4" width="50" />](https://github.com/pig-js) | [<img src="https://avatars1.githubusercontent.com/u/70750007?s=200&v=4" width="50" />](https://github.com/sheep-js) | [<img src="https://avatars1.githubusercontent.com/u/70750089?s=200&v=4" width="50" />](https://github.com/koala-js) | [<img src="https://avatars1.githubusercontent.com/u/70750531?s=200&v=4" width="50" />](https://github.com/monkey-js) |
