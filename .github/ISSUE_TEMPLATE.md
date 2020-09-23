@@ -1,10 +1,3 @@
----
-name: 'New 申请'
-title: 'New 申请'
-labels: '💖 Application'
-assignees: 'xrkffgg'
----
-
 <!-- ❤️ 哇，终于等到你了。 -->
 <!-- ❤️ Wow, finally waiting for you。 -->
 
