@@ -2,7 +2,7 @@
 name: New 申请 💖 
 about: 新的申请
 title: '[New] 申请'
-labels: "\U0001F496 Application"
+labels: '💖 Application'
 assignees: xrkffgg
 ---
 
