@@ -1,6 +1,6 @@
 ---
-name: New 申请 💖 
-about: 新的申请
+name: 萌宠领养 💖 
+about: 萌宠领养直接申请
 title: '[New] 申请'
 labels: '💖 Application'
 assignees: xrkffgg
