@@ -2,4 +2,4 @@ blank_issues_enabled: true
 contact_links:
   - name: 在线预览申请
     url: https://zoo-js.github.io/zoo-issue-helper/
-    about: 你可以通过在线预览进行申请，也可以点击下面的链接直接填写申请。
+    about: 你可以通过点击右侧链接在线预览进行申请。
