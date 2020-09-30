@@ -6,7 +6,7 @@ The cute pet zoo has opened, do you want to have the cute pets below? Come and a
 
 Preview online collection: https://zoo-js.github.io/zoo-issue-helper/
 
-If your favorite pet is not in the following list, please raise it in the [issue](https://github.com/zoo-js/zoo/issues).
+If your favorite pet is not in the following list, please raise it in the [issue][issue-new].
 
 ## ✨ Cute pet list
 
@@ -58,4 +58,6 @@ If your favorite pet is not in the following list, please raise it in the [issue
 
 ## 💄 How to adopt?
 
-Open a new [issue](https://github.com/zoo-js/zoo/issues) and fill in the pet that you want to adopt (join). At the same time, only one person adopts **3** small pets, please choose carefully. Once selected, please do not throw it away. thank you all!
+Open a new [issue][issue-new] and fill in the pet that you want to adopt (join). At the same time, only one person adopts **3** small pets, please choose carefully. Once selected, please do not throw it away. thank you all!
+
+[issue-new]:https://github.com/zoo-js/zoo/issues/new/choose

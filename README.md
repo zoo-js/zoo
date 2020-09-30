@@ -6,7 +6,7 @@
 
 在线预览领取: https://zoo-js.github.io/zoo-issue-helper/
 
-若您心仪的萌宠没在以下列表内，欢迎在 [issue](https://github.com/zoo-js/zoo/issues) 中提出。
+若您心仪的萌宠没在以下列表内，欢迎在 [issue][issue-new] 中提出。
 
 ## ✨ 萌宠列表
 
@@ -58,4 +58,6 @@
 
 ## 💄 如何领养？
 
-新开一个 [issue](https://github.com/zoo-js/zoo/issues)，填写自己想要领养（加入）小萌宠。同时原则上仅支持单人领养**3只**小宠物，请大家谨慎挑选。一经挑选，请勿随意抛弃。谢谢大家！
+新开一个 [issue][issue-new]，填写自己想要领养（加入）小萌宠。同时原则上仅支持单人领养 **3只** 小宠物，请大家谨慎挑选。一经挑选，请勿随意抛弃。谢谢大家！
+
+[issue-new]:https://github.com/zoo-js/zoo/issues/new/choose
