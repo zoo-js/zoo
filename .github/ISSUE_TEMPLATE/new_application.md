@@ -11,7 +11,7 @@ assignees: xrkffgg
 
 ### 😀 申请人 Applicant
 
-- GitHub:
+- GitHub: (xxx)
 
 <!-- 请在上方输入你的 GitHub 用户名 -->
 <!-- Please enter your GitHub username above -->
