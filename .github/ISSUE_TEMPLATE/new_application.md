@@ -1,5 +1,5 @@
 ---
-name: 萌宠领养 💖 
+name: 萌宠领养 💖
 about: 萌宠领养直接申请
 title: '[New] 申请'
 labels: '💖 Application'
@@ -34,3 +34,5 @@ Please fill in the small pets you want to adopt at the top. In principle, only 3
 - 完成领养后，建议自行关闭 issue。
 - [如何展示？](https://github.com/zoo-js/welcome/blob/master/how-to-show.md)
 - [我可以做什么？](https://github.com/zoo-js/welcome/blob/master/what-we-can.md)
+
+<!-- New application. DO NOT REMOVE! -->
