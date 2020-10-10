@@ -55,7 +55,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
 | apple 苹果 | coffee 咖啡 | heart 心 | tea 茶 | milk 牛奶 | beer 啤酒 | watermelon 西瓜 |
 
 | [<img src="https://avatars3.githubusercontent.com/u/72604011?s=200&v=4" width="50" />](https://github.com/strawberry-js) | [<img src="https://avatars2.githubusercontent.com/u/72604097?s=200&v=4" width="50" />](https://github.com/banana-js) | [<img src="https://avatars2.githubusercontent.com/u/72604170?s=200&v=4" width="50" />](https://github.com/grape-js) | [<img src="https://avatars3.githubusercontent.com/u/72604201?s=200&v=4" width="50" />](https://github.com/cherry-js) | [<img src="https://avatars3.githubusercontent.com/u/72602791?s=200&v=4" width="50" />](https://github.com/horse-ts) | [<img src="https://avatars2.githubusercontent.com/u/72603073?s=200&v=4" width="50" />](https://github.com/flower-js) |
-| -- | -- | -- | -- | -- | -- | -- |
+| -- | -- | -- | -- | -- | -- |
 | strawberry 草莓 | banana 香蕉 | grape 葡萄 | cherry 樱桃 | horse 马 | flower 花 |
 
 ## 🌟 Preview
