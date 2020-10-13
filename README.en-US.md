@@ -60,7 +60,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
 
 ## 🌟 Preview
 
-![](https://github.com/zoo-js/zoo/blob/master/assets/pets.png?raw=true)
+![](https://github.com/zoo-js/zoo/blob/main/assets/pets.png?raw=true)
 
 ## 💖 Purpose
 
