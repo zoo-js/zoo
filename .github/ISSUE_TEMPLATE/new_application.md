@@ -34,7 +34,7 @@ Please fill in the small pets you want to adopt at the top. In principle, only 5
 ### 🌈 Tip
 
 - After completing the adoption, it is recommended to close the issue yourself. 完成领养后，建议自行关闭 issue。
-- [How to show? 如何展示？](https://github.com/zoo-js/welcome/blob/master/how-to-show.md)
-- [What we can? 我可以做什么？](https://github.com/zoo-js/welcome/blob/master/what-we-can.md)
+- [How to show? 如何展示？](https://github.com/zoo-js/welcome/blob/main/how-to-show.md)
+- [What we can? 我可以做什么？](https://github.com/zoo-js/welcome/blob/main/what-we-can.md)
 
 <!-- New application. DO NOT REMOVE! -->
