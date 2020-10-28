@@ -6,6 +6,8 @@ The cute pet zoo has opened, do you want to have the cute pets below? Come and a
 
 Preview online collection: https://zoo-js.github.io/zoo-issue-helper/
 
+People distribution charts: https://zoo-js.github.io/zoo-charts/
+
 If your favorite pet is not in the following list, please raise it in the [issue][issue-new].
 
 ## ✨ Cute pet list ( 84 )

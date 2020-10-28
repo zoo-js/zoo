@@ -6,6 +6,8 @@
 
 在线预览领取: https://zoo-js.github.io/zoo-issue-helper/
 
+人员分布图表：https://zoo-js.github.io/zoo-charts/
+
 若您心仪的萌宠没在以下列表内，欢迎在 [issue][issue-new] 中提出。
 
 ## ✨ 萌宠列表 ( 84 )
