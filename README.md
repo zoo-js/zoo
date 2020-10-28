@@ -4,7 +4,7 @@
 
 简体中文 | [English](./README.en-US.md)
 
-在线预览领取: https://zoo-js.github.io/zoo-issue-helper/
+在线预览领取：https://zoo-js.github.io/zoo-issue-helper/
 
 人员分布图表：https://zoo-js.github.io/zoo-charts/
 
