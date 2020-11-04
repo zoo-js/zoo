@@ -1,0 +1,10 @@
+name: 🧐 Auto Invite
+
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  auto-invite-label:
+    runs-on: ubuntu-latest
+    if: github.event.label.name == '3.x'
