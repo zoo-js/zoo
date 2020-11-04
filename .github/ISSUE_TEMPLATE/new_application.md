@@ -13,8 +13,8 @@ assignees: xrkffgg
 
 - GitHub: (xxx)
 
-<!-- 请在上方输入你的 GitHub 用户名 -->
-<!-- Please enter your GitHub username above -->
+<!-- 请在上方输入你的 GitHub 邮箱 -->
+<!-- Please enter your GitHub Email above -->
 
 ### 🌏 领养宠物 Adopt pets
 
