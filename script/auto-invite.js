@@ -34,7 +34,6 @@ async function main() {
   const pets = targetArr.slice(1);
   for (var i = 0; i < pets.length; i++) {
     let fullName = getPetFullName(pets[i]);
-    console.log(fullName)
     await octokit.orgs.createInvitation({
       org: fullName,
       email,
