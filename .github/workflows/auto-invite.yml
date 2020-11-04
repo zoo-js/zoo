@@ -9,6 +9,11 @@ jobs:
     runs-on: ubuntu-latest
     if: github.event.label.name == 'auto invited'
     steps:
+      - uses: actions/checkout@master
+        
+      - name: install
+        run: yarn
+
       - name: auto invite
         run: node ./script/auto-invited.js
         env:
