@@ -1,7 +1,5 @@
 require('dotenv').config();
-const core = require('@actions/core');
 const { Octokit } = require('@octokit/rest');
-const axios = require('axios');
 
 const {
   GH_TOKEN: githubToken,
@@ -13,17 +11,17 @@ const issueNumber = ISSUE_NUMBER;
 
 const issueBody = `🎈 Hi, @${issueAuth}. We cannot accurately obtain your email address or the pets you want to adopt. Please complete your information. You can refer to the following format.
 
-Requirement：
-email: Add a space after the English colon, add email
-pets: Add a period after the number, and add pet abbreviation
+- Requirement：
+  - email: Add a space after the English colon, add email
+  - pets: Add a period after the number, and add pet abbreviation
 
 ---
 
 🎈 你好，@${issueAuth}。我们无法准确获取你的邮箱或想要领养的宠物，请完善你的信息。可参考如下格式。
 
-格式要求：
-email: 英文冒号后加空格，加邮箱
-pets: 数字后加英文句号，加 pet 英文简称
+- 格式要求：
+  - email: 英文冒号后加空格，加邮箱
+  - pets: 数字后加英文句号，加 pet 英文简称
 
 ---
 
@@ -38,7 +36,6 @@ const owner = 'zoo-js';
 const repo = 'zoo';
 
 async function main() {
-  core.info('Adding a comment');
   await octokit.issues.createComment({
     owner,
     repo,
