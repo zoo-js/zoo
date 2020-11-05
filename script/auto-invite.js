@@ -11,9 +11,9 @@ const {
 const issueAuth = ISSUE_AUTH || 'xrkffgg';
 const issueNumber = ISSUE_NUMBER || 48;
 
-const issueBody = `🎉 Hi, @${issueAuth}. The invitation has been sent to the specified email address, please check!
+const issueBody = `🎉 Hi, @${issueAuth}. The invitation has been sent to the specified email address, please check! This issue will be closed. If you have any questions, please comment below.
 
-🎉 你好，@${issueAuth}。邀请已发送到指定邮箱，请查收！
+🎉 你好，@${issueAuth}。邀请已发送到指定邮箱，请查收！这个 issue 将要被关闭，如果你有任何问题，欢迎在下方评论。
 
 <!-- Created by zoo-js-bot with GitHub Actios. -->
 `;
@@ -70,6 +70,15 @@ async function main() {
     repo,
     issue_number: issueNumber,
     body: issueBody,
+  });
+
+  core.info('Closing issue');
+  await octokit.issues.update({
+    owner,
+    repo,
+    issue_number: issueNumber,
+    body: issueBody,
+    state: 'closed'
   });
 };
 
