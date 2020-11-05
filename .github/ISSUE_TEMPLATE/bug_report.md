@@ -3,7 +3,7 @@ name: Report Bug 🐛
 about: 报告 bug
 title: '[BUG] Report bug'
 labels: '🐛 bug'
-assignees: xrkffgg
+assignees: 
 ---
 
 ### 🐛 Bug 描述 Bug description

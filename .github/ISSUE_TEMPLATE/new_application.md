@@ -3,7 +3,7 @@ name: Cute pet adoption 💖
 about: 萌宠领养直接申请
 title: '[New] 申请'
 labels: '💖 Application'
-assignees: xrkffgg
+assignees: 
 ---
 
 <!-- ❤️ 哇，终于等到你了。 -->

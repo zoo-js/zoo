@@ -3,7 +3,7 @@ name: New function 🌟
 about: New cute pets, needs, functions, suggestions. 新萌宠、需求、功能、建议
 title: '[Feature] New function'
 labels: '🌟 To do'
-assignees: xrkffgg
+assignees: 
 ---
 
 ### 🥰 需求描述 Description of Requirement
