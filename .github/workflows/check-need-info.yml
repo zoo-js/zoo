@@ -1,0 +1,19 @@
+name: Check need info
+
+on:
+  schedule:
+    - cron: "0 12 */7 * *"
+
+jobs:
+  check-issue:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+
+      - name: Install
+        run: yarn
+
+      - name: Update data
+        run: node ./script/check-need-info.js
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
