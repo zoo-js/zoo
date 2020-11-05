@@ -3,12 +3,9 @@ const { Octokit } = require('@octokit/rest');
 
 const {
   GH_TOKEN: githubToken,
-  ISSUE_AUTH,
-  ISSUE_NUMBER,
+  ISSUE_AUTH: issueAuth,
+  ISSUE_NUMBER: issueNumber,
 } = process.env;
-const issueAuth = ISSUE_AUTH;
-
-const issueNumber = ISSUE_NUMBER;
 
 const issueBody = `🎈 Hi, @${issueAuth}. We cannot accurately obtain your email address or the pets you want to adopt. Please complete your information. You can refer to the following format.
 
