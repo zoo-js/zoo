@@ -3,6 +3,7 @@
     "@actions/core": "^1.2.6",
     "@octokit/rest": "^18.0.6",
     "axios": "^0.21.0",
+    "dayjs": "^1.9.4",
     "dotenv": "^8.2.0"
   }
 }
