@@ -75,12 +75,16 @@ async function main() {
 
 async function invitePeople(email, pet) {
   let org = getPetFullName(pet);
-  await octokit.orgs.createInvitation({
-    org,
-    email,
-    role: 'direct_member'
-  });
-  core.info(`Auto invited ${org}`);
+  if (org) {
+    await octokit.orgs.createInvitation({
+      org,
+      email,
+      role: 'direct_member'
+    });
+    core.info(`Auto invited ${org}`);
+  } else {
+    core.info(`Get ${pet} fullName error!`);
+  }
 };
 
 async function getOrganizations() {
