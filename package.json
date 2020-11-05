@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@actions/core": "^1.2.6",
+    "@octokit/rest": "^18.0.6",
+    "axios": "^0.21.0",
+    "dotenv": "^8.2.0"
+  }
+}

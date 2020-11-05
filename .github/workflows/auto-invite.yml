@@ -1,0 +1,22 @@
+name: 🧐 Auto Invite
+
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  auto-invite-label:
+    runs-on: ubuntu-latest
+    if: github.event.label.name == 'auto invited'
+    steps:
+      - uses: actions/checkout@master
+        
+      - name: install
+        run: yarn
+
+      - name: auto invite
+        run: node ./script/auto-invited.js
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          ISSUE_AUTH: ${{ github.event.issue.user.login }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
