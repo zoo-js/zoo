@@ -7,6 +7,7 @@ const {
   ISSUE_NUMBER,
 } = process.env;
 const issueAuth = ISSUE_AUTH;
+
 const issueNumber = ISSUE_NUMBER;
 
 const issueBody = `🎈 Hi, @${issueAuth}. We cannot accurately obtain your email address or the pets you want to adopt. Please complete your information. You can refer to the following format.
