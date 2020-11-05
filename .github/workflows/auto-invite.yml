@@ -5,7 +5,7 @@ on:
     types: [labeled]
 
 jobs:
-  auto-invite-label:
+  auto-invite:
     runs-on: ubuntu-latest
     if: github.event.label.name == 'auto invited'
     steps:
@@ -15,7 +15,7 @@ jobs:
         run: yarn
 
       - name: auto invite
-        run: node ./script/auto-invited.js
+        run: node ./script/auto-invite.js
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           ISSUE_AUTH: ${{ github.event.issue.user.login }}
