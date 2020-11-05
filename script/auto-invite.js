@@ -11,8 +11,11 @@ const {
 const issueAuth = ISSUE_AUTH || 'xrkffgg';
 const issueNumber = ISSUE_NUMBER || 48;
 
-const issueBody = `🎉 Hi, @${issueAuth}. Already invited, please check your email.
-<!-- Created by GitHub Actios. -->
+const issueBody = `🎉 Hi, @${issueAuth}. The invitation has been sent to the specified email address, please check!
+
+🎉 你好，@${issueAuth}。邀请已发送到指定邮箱，请查收！
+
+<!-- Created by zoo-js-bot with GitHub Actios. -->
 `;
 
 const octokit = new Octokit({ auth: `token ${githubToken}` });
@@ -23,23 +26,42 @@ const url = 'https://raw.githubusercontent.com/zoo-js/zoo-data/main/json/organiz
 let organizations = [];
 
 async function main() {
-  const res = await octokit.issues.listComments({
+  const res = await octokit.issues.get({
     owner,
     repo,
     issue_number: issueNumber
   });
 
-  const targetArr = res.data.pop().body.split('\r\n');
-  const email = targetArr[0];
-  const pets = targetArr.slice(1);
-  for (var i = 0; i < pets.length; i++) {
-    let fullName = getPetFullName(pets[i]);
-    await octokit.orgs.createInvitation({
-      org: fullName,
-      email,
-      role: 'direct_member'
-    })
-    core.info(`Auto invited ${fullName}`);
+  const targetArr = res.data.body.split('\r\n');
+  var email;
+
+  for (var i = 0; i < targetArr.length; i++) {
+    let val = targetArr[i];
+
+    if (val.startsWith('GitHub Email:')) {
+      email = val.replace('GitHub Email: ', '');
+    }
+    if (email && val.startsWith('1.') && val.length > 3) {
+      let pet = val.replace('1. ', '');
+      if (pet) { await invitePeople(email, pet); }
+    }
+    if (email && val.startsWith('2.') && val.length > 3) {
+      let pet = val.replace('2. ', '');
+      if (pet) { await invitePeople(email, pet); }
+    }
+    if (email && val.startsWith('3.') && val.length > 3) {
+      let pet = val.replace('3. ', '');
+      if (pet) { await invitePeople(email, pet); }
+    }
+    if (email && val.startsWith('4.') && val.length > 3) {
+      let pet = val.replace('4. ', '');
+      if (pet) { await invitePeople(email, pet); }
+    }
+    if (email && val.startsWith('5.') && val.length > 3) {
+      let pet = val.replace('5. ', '');
+      if (pet) { await invitePeople(email, pet); }
+      break;
+    }
   }
 
   core.info('Adding a comment');
@@ -48,7 +70,17 @@ async function main() {
     repo,
     issue_number: issueNumber,
     body: issueBody,
-  })
+  });
+};
+
+async function invitePeople(email, pet) {
+  let org = getPetFullName(pet);
+  await octokit.orgs.createInvitation({
+    org,
+    email,
+    role: 'direct_member'
+  });
+  core.info(`Auto invited ${org}`);
 };
 
 async function getOrganizations() {
