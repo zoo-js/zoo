@@ -77,7 +77,6 @@ async function main() {
     owner,
     repo,
     issue_number: issueNumber,
-    body: issueBody,
     state: 'closed'
   });
 };
