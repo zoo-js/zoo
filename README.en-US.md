@@ -10,7 +10,7 @@ People distribution charts: https://zoo-js.github.io/zoo-charts/
 
 If your favorite pet is not in the following list, please raise it in the [issue][issue-new].
 
-## ✨ Cute pet list ( 84 )
+## ✨ Cute pet list ( 92 )
 
 | [<img src="https://avatars0.githubusercontent.com/u/72658591?s=200&v=4" width="50" />](https://github.com/cat-js) | [<img src="https://avatars1.githubusercontent.com/u/70746150?s=200&v=4" width="50" />](https://github.com/dog-js) | [<img src="https://avatars2.githubusercontent.com/u/70746215?s=200&v=4" width="50" />](https://github.com/ant-js) | [<img src="https://avatars1.githubusercontent.com/u/70749293?s=200&v=4" width="50" />](https://github.com/pig-js) | [<img src="https://avatars1.githubusercontent.com/u/70750007?s=200&v=4" width="50" />](https://github.com/sheep-js) | [<img src="https://avatars1.githubusercontent.com/u/70750089?s=200&v=4" width="50" />](https://github.com/koala-js) | [<img src="https://avatars1.githubusercontent.com/u/70750531?s=200&v=4" width="50" />](https://github.com/monkey-js) |
 | -- | -- | -- | -- | -- | -- | -- |
@@ -59,6 +59,14 @@ If your favorite pet is not in the following list, please raise it in the [issue
 | [<img src="https://avatars3.githubusercontent.com/u/72604011?s=200&v=4" width="50" />](https://github.com/strawberry-js) | [<img src="https://avatars2.githubusercontent.com/u/72604097?s=200&v=4" width="50" />](https://github.com/banana-js) | [<img src="https://avatars2.githubusercontent.com/u/72604170?s=200&v=4" width="50" />](https://github.com/grape-js) | [<img src="https://avatars3.githubusercontent.com/u/72604201?s=200&v=4" width="50" />](https://github.com/cherry-js) | [<img src="https://avatars3.githubusercontent.com/u/72602791?s=200&v=4" width="50" />](https://github.com/horse-ts) | [<img src="https://avatars2.githubusercontent.com/u/72603073?s=200&v=4" width="50" />](https://github.com/flower-js) | [<img src="https://avatars1.githubusercontent.com/u/73515996?s=200&v=4" width="50" />](https://github.com/carrot-js) |
 | -- | -- | -- | -- | -- | -- | -- |
 | strawberry 草莓 | banana 香蕉 | grape 葡萄 | cherry 樱桃 | horse 马 | flower 花 | carrot 胡萝卜 |
+
+| [<img src="https://avatars0.githubusercontent.com/u/74277347?s=200&v=4" width="50" />](https://github.com/acorn-js) | [<img src="https://avatars2.githubusercontent.com/u/74277443?s=200&v=4" width="50" />](https://github.com/corn-js) | [<img src="https://avatars0.githubusercontent.com/u/74277666?s=200&v=4" width="50" />](https://github.com/eve-js) | [<img src="https://avatars0.githubusercontent.com/u/74277694?s=200&v=4" width="50" />](https://github.com/walle-js) | [<img src="https://avatars1.githubusercontent.com/u/74278228?s=200&v=4" width="50" />](https://github.com/mermaid-ts) | [<img src="https://avatars3.githubusercontent.com/u/74278308?s=200&v=4" width="50" />](https://github.com/money-js) | [<img src="https://avatars2.githubusercontent.com/u/74278426?s=200&v=4" width="50" />](https://github.com/rainbow-js) |
+| -- | -- | -- | -- | -- | -- | -- |
+| acorn 橡果 | corn 玉米 | eve 伊娃 | walle 瓦力 | mermaid 美人鱼 | money 钱袋 | rainbow 彩虹 | 
+
+| [<img src="https://avatars2.githubusercontent.com/u/74278553?s=200&v=4" width="50" />](https://github.com/rose-js) | 
+| -- |
+| rose 玫瑰 |
 
 ## 🌟 Preview
 
