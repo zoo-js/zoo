@@ -18,15 +18,15 @@
 
 | [<img src="https://avatars2.githubusercontent.com/u/70750582?s=200&v=4" width="50" />](https://github.com/bear-js) | [<img src="https://avatars2.githubusercontent.com/u/70750638?s=200&v=4" width="50"/>](https://github.com/snake-js) | [<img src="https://avatars2.githubusercontent.com/u/70750798?s=200&v=4" width="50" />](https://github.com/butterfly-js) | [<img src="https://avatars1.githubusercontent.com/u/70750872?s=200&v=4" width="50" />](https://github.com/fox-js) | [<img src="https://avatars3.githubusercontent.com/u/70750953?s=200&v=4" width="50" />](https://github.com/deer-js) | [<img src="https://avatars2.githubusercontent.com/u/70751028?s=200&v=4" width="50" />](https://github.com/duck-js) | [<img src="https://avatars0.githubusercontent.com/u/70751211?s=200&v=4" width="50" />](https://github.com/cattle-js) |
 | -- | -- | -- | -- | -- | -- | -- |
-|bear 熊 | snake 蛇|butterfly 蝴蝶| fox 狐狸|deer 鹿 | duck 鸭子|cattle 牛 |
+| bear 熊 | snake 蛇 | butterfly 蝴蝶 | fox 狐狸 | deer 鹿 | duck 鸭子| cattle 牛 |
 
 | [<img src="https://avatars3.githubusercontent.com/u/70751299?s=200&v=4" width="50" />](https://github.com/snail-js) | [<img src="https://avatars2.githubusercontent.com/u/70752100?s=200&v=4" width="50" />](https://github.com/owl-js) | [<img src="https://avatars3.githubusercontent.com/u/70752158?s=200&v=4" width="50" />](https://github.com/zebra-js) | [<img src="https://avatars1.githubusercontent.com/u/70752245?s=200&v=4" width="50" />](https://github.com/parrot-js) | [<img src="https://avatars0.githubusercontent.com/u/70752315?s=200&v=4" width="50" />](https://github.com/alpaca-js) | [<img src="https://avatars0.githubusercontent.com/u/70752362?s=200&v=4" width="50" />](https://github.com/beetle-js) | [<img src="https://avatars3.githubusercontent.com/u/70752397?s=200&v=4" width="50" />](https://github.com/camel-js) |
 | -- | -- | -- | -- | -- | -- | -- |
-| snail 蜗牛| owl 猫头鹰| zebra 斑马| parrot 鹦鹉 | alpaca 羊驼| beetle 甲壳虫 | camel 骆驼|
+| snail 蜗牛 | owl 猫头鹰 | zebra 斑马 | parrot 鹦鹉 | alpaca 羊驼| beetle 甲壳虫 | camel 骆驼 |
 
 | [<img src="https://avatars2.githubusercontent.com/u/70752488?s=200&v=4" width="50" />](https://github.com/frog-js) | [<img src="https://avatars2.githubusercontent.com/u/70752630?s=200&v=4" width="50" />](https://github.com/swallow-js) | [<img src="https://avatars0.githubusercontent.com/u/70752665?s=200&v=4" width="50" />](https://github.com/tiger-js) | [<img src="https://avatars1.githubusercontent.com/u/70752728?s=200&v=4" width="50" />](https://github.com/elephant-js) | [<img src="https://avatars0.githubusercontent.com/u/70752757?s=200&v=4" width="50" />](https://github.com/mouse-js) | [<img src="https://avatars3.githubusercontent.com/u/70752793?s=200&v=4" width="50" />](https://github.com/whale-js) | [<img src="https://avatars2.githubusercontent.com/u/70752846?s=200&v=4" width="50" />](https://github.com/dinosaur-js) |
 | -- | -- | -- | -- | -- | -- | -- |
-| frog 青蛙| swallow 燕子 | tiger 老虎 | elephant 大象| mouse 老鼠 | whale 鲸鱼| dinosaur 恐龙 |
+| frog 青蛙 | swallow 燕子 | tiger 老虎 | elephant 大象| mouse 老鼠 | whale 鲸鱼| dinosaur 恐龙 |
 
 | [<img src="https://avatars0.githubusercontent.com/u/70752881?s=200&v=4" width="50" />](https://github.com/hippo-js) | [<img src="https://avatars2.githubusercontent.com/u/70752962?s=200&v=4" width="50" />](https://github.com/gull-js) | [<img src="https://avatars1.githubusercontent.com/u/70753047?s=200&v=4" width="50" />](https://github.com/lark-js) | [<img src="https://avatars3.githubusercontent.com/u/70757307?s=200&v=4" width="50" />](https://github.com/bird-js) | [<img src="https://avatars3.githubusercontent.com/u/70757494?s=200&v=4" width="50" />](https://github.com/peacock-js) | [<img src="https://avatars2.githubusercontent.com/u/70757521?s=200&v=4" width="50" />](https://github.com/swan-js) | [<img src="https://avatars0.githubusercontent.com/u/70757575?s=200&v=4" width="50" />](https://github.com/canary-js) |
 | -- | -- | -- | -- | -- | -- | -- |
@@ -59,6 +59,14 @@
 | [<img src="https://avatars3.githubusercontent.com/u/72604011?s=200&v=4" width="50" />](https://github.com/strawberry-js) | [<img src="https://avatars2.githubusercontent.com/u/72604097?s=200&v=4" width="50" />](https://github.com/banana-js) | [<img src="https://avatars2.githubusercontent.com/u/72604170?s=200&v=4" width="50" />](https://github.com/grape-js) | [<img src="https://avatars3.githubusercontent.com/u/72604201?s=200&v=4" width="50" />](https://github.com/cherry-js) | [<img src="https://avatars3.githubusercontent.com/u/72602791?s=200&v=4" width="50" />](https://github.com/horse-ts) | [<img src="https://avatars2.githubusercontent.com/u/72603073?s=200&v=4" width="50" />](https://github.com/flower-js) | [<img src="https://avatars1.githubusercontent.com/u/73515996?s=200&v=4" width="50" />](https://github.com/carrot-js) |
 | -- | -- | -- | -- | -- | -- | -- |
 | strawberry 草莓 | banana 香蕉 | grape 葡萄 | cherry 樱桃 | horse 马 | flower 花 | carrot 胡萝卜 |
+
+| [<img src="https://avatars0.githubusercontent.com/u/74277347?s=200&v=4" width="50" />](https://github.com/acorn-js) | [<img src="https://avatars2.githubusercontent.com/u/74277443?s=200&v=4" width="50" />](https://github.com/corn-js) | [<img src="https://avatars0.githubusercontent.com/u/74277666?s=200&v=4" width="50" />](https://github.com/eve-js) | [<img src="https://avatars0.githubusercontent.com/u/74277694?s=200&v=4" width="50" />](https://github.com/walle-js) | [<img src="https://avatars1.githubusercontent.com/u/74278228?s=200&v=4" width="50" />](https://github.com/mermaid-ts) | [<img src="https://avatars3.githubusercontent.com/u/74278308?s=200&v=4" width="50" />](https://github.com/money-js) | [<img src="https://avatars2.githubusercontent.com/u/74278426?s=200&v=4" width="50" />](https://github.com/rainbow-js) |
+| -- | -- | -- | -- | -- | -- | -- |
+| acorn 橡果 | corn 玉米 | eve 伊娃 | walle 瓦力 | mermaid 美人鱼 | money 钱袋 | rainbow 彩虹 | 
+
+| [<img src="https://avatars2.githubusercontent.com/u/74278553?s=200&v=4" width="50" />](https://github.com/rose-js) | 
+| -- |
+| rose 玫瑰 |
 
 ## 🌟 预览图
 

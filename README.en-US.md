@@ -60,6 +60,14 @@ If your favorite pet is not in the following list, please raise it in the [issue
 | -- | -- | -- | -- | -- | -- | -- |
 | strawberry 草莓 | banana 香蕉 | grape 葡萄 | cherry 樱桃 | horse 马 | flower 花 | carrot 胡萝卜 |
 
+| [<img src="https://avatars0.githubusercontent.com/u/74277347?s=200&v=4" width="50" />](https://github.com/acorn-js) | [<img src="https://avatars2.githubusercontent.com/u/74277443?s=200&v=4" width="50" />](https://github.com/corn-js) | [<img src="https://avatars0.githubusercontent.com/u/74277666?s=200&v=4" width="50" />](https://github.com/eve-js) | [<img src="https://avatars0.githubusercontent.com/u/74277694?s=200&v=4" width="50" />](https://github.com/walle-js) | [<img src="https://avatars1.githubusercontent.com/u/74278228?s=200&v=4" width="50" />](https://github.com/mermaid-ts) | [<img src="https://avatars3.githubusercontent.com/u/74278308?s=200&v=4" width="50" />](https://github.com/money-js) | [<img src="https://avatars2.githubusercontent.com/u/74278426?s=200&v=4" width="50" />](https://github.com/rainbow-js) |
+| -- | -- | -- | -- | -- | -- | -- |
+| acorn 橡果 | corn 玉米 | eve 伊娃 | walle 瓦力 | mermaid 美人鱼 | money 钱袋 | rainbow 彩虹 | 
+
+| [<img src="https://avatars2.githubusercontent.com/u/74278553?s=200&v=4" width="50" />](https://github.com/rose-js) | 
+| -- |
+| rose 玫瑰 |
+
 ## 🌟 Preview
 
 ![](https://github.com/zoo-js/zoo/blob/main/assets/pets.png?raw=true)
