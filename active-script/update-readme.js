@@ -73,13 +73,12 @@ function getCnName(pet) {
 };
 
 async function getOrganizations() {
-  await axios.get(url).then(res =>{
+  try {
+    const res = await axios.get(url);
     organizations = res.data.data;
-  },rej => {
-    console.log(rej);
-  }).catch(err =>{
+  } catch(err) {
     console.log(err);
-  })
+  }
 };
 
 (async () => {
