@@ -10,7 +10,7 @@
 
 若您心仪的萌宠没在以下列表内，欢迎在 [issue][issue-new] 中提出。
 
-## ✨ 萌宠列表 ( 92 )
+## ✨ 萌宠列表 ( 103 )
 
 <!-- START -->
 
@@ -242,14 +242,44 @@
 </tr><tr>
   <td align="center"><a href="https://github.com/rainbow-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74278426?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/rose-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74278553?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/angel-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403136?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/devil-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403233?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/bug-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403263?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/raccoon-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403310?s=200&v=4" width="50" /></a></td>
+</tr>
+<tr>
+  <td width="160" align="center">rainbow<br />彩虹</td>
+  <td width="160" align="center">rose<br />玫瑰</td>
+  <td width="160" align="center">angel<br />天使</td>
+  <td width="160" align="center">devil<br />恶魔</td>
+  <td width="160" align="center">bug<br />bug</td>
+  <td width="160" align="center">raccoon<br />浣熊</td>
+</tr><tr>
+  <td align="center"><a href="https://github.com/sloth-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403343?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/mac-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403452?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/hamster-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403513?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/hamburger-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403760?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/coke-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403781?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/iphone-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74405634?s=200&v=4" width="50" /></a></td>
+</tr>
+<tr>
+  <td width="160" align="center">sloth<br />树獭</td>
+  <td width="160" align="center">mac<br />Mac</td>
+  <td width="160" align="center">hamster<br />仓鼠</td>
+  <td width="160" align="center">hamburger<br />汉堡包</td>
+  <td width="160" align="center">coke<br />可乐</td>
+  <td width="160" align="center">iphone<br />爱疯</td>
+</tr><tr>
+  <td align="center"><a href="https://github.com/ipad-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74405647?s=200&v=4" width="50" /></a></td>
+  <td align="center"></td>
   <td align="center"></td>
   <td align="center"></td>
   <td align="center"></td>
   <td align="center"></td>
 </tr>
 <tr>
-  <td width="160" align="center">rainbow<br />彩虹</td>
-  <td width="160" align="center">rose<br />玫瑰</td>
+  <td width="160" align="center">ipad<br />iPad</td>
+  <td width="160" align="center"></td>
   <td width="160" align="center"></td>
   <td width="160" align="center"></td>
   <td width="160" align="center"></td>
