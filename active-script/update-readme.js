@@ -16,7 +16,7 @@ function main() {
   }
   let content = '';
   let row = organizations.length / 5;
-  var lastNo = organizations.length % 5;
+  const lastNo = organizations.length % 5;
   if (lastNo != 0) row += 1;
   for (var j = 1; j <= row; j++ ) {
     let data = '';
