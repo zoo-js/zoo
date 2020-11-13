@@ -16,6 +16,7 @@
 
 UPDATE_README_TABLE
 
+<!-- Created by update-readme.js. -->
 <!-- END -->
 
 ## 🌟 预览图

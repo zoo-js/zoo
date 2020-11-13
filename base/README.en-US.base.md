@@ -16,6 +16,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
 
 UPDATE_README_TABLE
 
+<!-- Created by update-readme.js. -->
 <!-- END -->
 
 ## 🌟 Preview

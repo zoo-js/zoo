@@ -263,6 +263,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td width="160" align="center"></td>
 </tr></table>
 
+<!-- Created by update-readme.js. -->
 <!-- END -->
 
 ## 🌟 Preview
