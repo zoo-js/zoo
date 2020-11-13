@@ -15,25 +15,27 @@ function main() {
     return false;
   }
   let content = '';
-  let row = organizations.length / 5;
-  const lastNo = organizations.length % 5;
+  let row = organizations.length / 6;
+  const lastNo = organizations.length % 6;
   if (lastNo != 0) row += 1;
   for (var j = 1; j <= row; j++ ) {
     let data = '';
     data = stripIndent`
       <tr>
-        <td align="center">${getFullName(organizations[(j-1)*5])}</td>
-        <td align="center">${getFullName(organizations[(j-1)*5+1])}</td>
-        <td align="center">${getFullName(organizations[(j-1)*5+2])}</td>
-        <td align="center">${getFullName(organizations[(j-1)*5+3])}</td>
-        <td align="center">${getFullName(organizations[(j-1)*5+4])}</td>
+        <td align="center">${getFullName(organizations[(j-1)*6])}</td>
+        <td align="center">${getFullName(organizations[(j-1)*6+1])}</td>
+        <td align="center">${getFullName(organizations[(j-1)*6+2])}</td>
+        <td align="center">${getFullName(organizations[(j-1)*6+3])}</td>
+        <td align="center">${getFullName(organizations[(j-1)*6+4])}</td>
+        <td align="center">${getFullName(organizations[(j-1)*6+5])}</td>
       </tr>
       <tr>
-        <td width="160" align="center">${getCnName(organizations[(j-1)*5])}</td>
-        <td width="160" align="center">${getCnName(organizations[(j-1)*5+1])}</td>
-        <td width="160" align="center">${getCnName(organizations[(j-1)*5+2])}</td>
-        <td width="160" align="center">${getCnName(organizations[(j-1)*5+3])}</td>
-        <td width="160" align="center">${getCnName(organizations[(j-1)*5+4])}</td>
+        <td width="160" align="center">${getCnName(organizations[(j-1)*6])}</td>
+        <td width="160" align="center">${getCnName(organizations[(j-1)*6+1])}</td>
+        <td width="160" align="center">${getCnName(organizations[(j-1)*6+2])}</td>
+        <td width="160" align="center">${getCnName(organizations[(j-1)*6+3])}</td>
+        <td width="160" align="center">${getCnName(organizations[(j-1)*6+4])}</td>
+        <td width="160" align="center">${getCnName(organizations[(j-1)*6+5])}</td>
       </tr>
     `;
     content += data
