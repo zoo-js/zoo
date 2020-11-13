@@ -67,7 +67,7 @@ function getFullName(pet) {
 
 function getCnName(pet) {
   if (pet) {
-    return `${pet.name} ${pet.cnName}`;
+    return `${pet.name}<br />${pet.cnName}`;
   }
   return '';
 };
