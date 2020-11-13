@@ -14,7 +14,7 @@
 
 <!-- START -->
 
-UPDATE_README
+UPDATE_README_TABLE
 
 <!-- END -->
 
