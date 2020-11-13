@@ -8,8 +8,8 @@ const url = 'https://raw.githubusercontent.com/zoo-js/zoo-data/main/json/organiz
 var organizations = [];
 
 function main() {
-  const baseReadme = readFileSync('./README.base.md', { encoding:'utf8', flag:'r' });
-  const baseReadmeEn = readFileSync('./README.en-US.base.md', { encoding:'utf8', flag:'r' });
+  const baseReadme = readFileSync('./base/README.base.md', { encoding:'utf8', flag:'r' });
+  const baseReadmeEn = readFileSync('./base/README.en-US.base.md', { encoding:'utf8', flag:'r' });
   if (organizations.length == 0) {
     console.log(`❌ Get organizations error`);
     return false;
