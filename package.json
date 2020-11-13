@@ -1,9 +1,16 @@
 {
+  "name": "zoo",
+  "scripts": {
+    "update-readme": "yarn && node ./active-script/update-readme.js"
+  },
+  "license": "MIT",
   "dependencies": {
     "@actions/core": "^1.2.6",
     "@octokit/rest": "^18.0.6",
     "axios": "^0.21.0",
+    "common-tags": "^1.8.0",
     "dayjs": "^1.9.4",
-    "dotenv": "^8.2.0"
+    "dotenv": "^8.2.0",
+    "prettier": "^2.1.2"
   }
 }
