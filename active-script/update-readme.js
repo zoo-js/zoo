@@ -18,7 +18,7 @@ function main() {
   let row = organizations.length / 6;
   const lastNo = organizations.length % 6;
   if (lastNo != 0) row += 1;
-  for (var j = 1; j <= row; j++ ) {
+  for (var j = 1; j <= row; j++) {
     let data = '';
     data = stripIndent`
       <tr>

@@ -96,13 +96,12 @@ async function invitePeople(email, pet) {
 };
 
 async function getOrganizations() {
-  await axios.get(url).then(res =>{
-    organizations = res.data.data
-  },rej => {
-    core.info(`Get Org ${rej}`);
-  }).catch(err =>{
-    core.info(`Get Org ${err}`);
-  })
+  try {
+    const res = await axios.get(url);
+    organizations = res.data.data;
+  } catch(err) {
+    console.log(err);
+  }
 };
 
 function getPetFullName(name) {
