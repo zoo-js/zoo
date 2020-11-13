@@ -10,7 +10,7 @@
 
 若您心仪的萌宠没在以下列表内，欢迎在 [issue][issue-new] 中提出。
 
-## ✨ 萌宠列表 ( 92 )
+## ✨ 萌宠列表 ( UPDATE_README_NUMBER )
 
 <!-- START -->
 

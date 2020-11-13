@@ -10,7 +10,7 @@ People distribution charts: https://zoo-js.github.io/zoo-charts/
 
 If your favorite pet is not in the following list, please raise it in the [issue][issue-new].
 
-## ✨ Cute pet list ( 92 )
+## ✨ Cute pet list ( UPDATE_README_NUMBER )
 
 <!-- START -->
 

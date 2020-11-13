@@ -39,14 +39,16 @@ function main() {
     content += data
   }
 
-  const newReadme = baseReadme.replace('UPDATE_README_TABLE', `<table>${content}</table>`);
+  let newReadme = baseReadme.replace('UPDATE_README_NUMBER', organizations.length);
+  newReadme = newReadme.replace('UPDATE_README_TABLE', `<table>${content}</table>`);
   const newReadmeFormatted = format(newReadme, {
     parser: 'markdown',
   });
   writeFileSync('./README.md', newReadmeFormatted);
   console.log(`🎉 Done readme`);
 
-  const newReadmeEn = baseReadmeEn.replace('UPDATE_README_TABLE', `<table>${content}</table>`);
+  let newReadmeEn = baseReadmeEn.replace('UPDATE_README_NUMBER', organizations.length);
+  newReadmeEn = newReadmeEn.replace('UPDATE_README_TABLE', `<table>${content}</table>`);
   const newReadmeEnFormatted = format(newReadmeEn, {
     parser: 'markdown',
   });
