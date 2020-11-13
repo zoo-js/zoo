@@ -18,6 +18,13 @@ const issueBody = `🎉 Hi, @${issueAuth}. The invitation has been sent to the s
 <!-- Created by zoo-js-bot with GitHub Actios. -->
 `;
 
+const errBody = `🚨 The format of the application issue does not match, please check **email** or **pets list**.
+
+🚨 申请 Issue 格式不符，请检查 **邮箱** 或 **宠物列表**。
+
+<!-- Created by zoo-js-bot with GitHub Actios. -->
+`;
+
 const octokit = new Octokit({ auth: `token ${githubToken}` });
 
 const owner = 'zoo-js';
@@ -33,7 +40,7 @@ async function main() {
   });
 
   const targetArr = res.data.body.split('\r\n');
-  var email;
+  var email, pet1, pet2, pet3, pet4, pet5;
 
   for (var i = 0; i < targetArr.length; i++) {
     let val = targetArr[i];
@@ -42,43 +49,69 @@ async function main() {
       email = val.replace('GitHub Email: ', '');
     }
     if (email && val.startsWith('1.') && val.length > 3) {
-      let pet = val.replace('1. ', '');
-      if (pet) { await invitePeople(email, pet); }
+      pet1 = val.replace('1. ', '');
+      if (pet1) { await invitePeople(email, pet1); }
     }
     if (email && val.startsWith('2.') && val.length > 3) {
-      let pet = val.replace('2. ', '');
-      if (pet) { await invitePeople(email, pet); }
+      pet2 = val.replace('2. ', '');
+      if (pet2) { await invitePeople(email, pet2); }
     }
     if (email && val.startsWith('3.') && val.length > 3) {
-      let pet = val.replace('3. ', '');
-      if (pet) { await invitePeople(email, pet); }
+      pet3 = val.replace('3. ', '');
+      if (pet3) { await invitePeople(email, pet3); }
     }
     if (email && val.startsWith('4.') && val.length > 3) {
-      let pet = val.replace('4. ', '');
-      if (pet) { await invitePeople(email, pet); }
+      pet4 = val.replace('4. ', '');
+      if (pet4) { await invitePeople(email, pet4); }
     }
     if (email && val.startsWith('5.') && val.length > 3) {
-      let pet = val.replace('5. ', '');
-      if (pet) { await invitePeople(email, pet); }
+      pet5 = val.replace('5. ', '');
+      if (pet5) { await invitePeople(email, pet5); }
       break;
     }
   }
 
-  core.info('Adding a comment');
-  await octokit.issues.createComment({
-    owner,
-    repo,
-    issue_number: issueNumber,
-    body: issueBody,
-  });
+  const emailExp = new RegExp('^([a-zA-Z0-9]+[_|\\_|\\.]?)*[a-zA-Z0-9]+@([a-zA-Z0-9]+[_|\\_|\\.]?)*[a-zA-Z0-9]+\\.[a-zA-Z]{2,3}$', '');
 
-  core.info('Closing issue');
-  await octokit.issues.update({
-    owner,
-    repo,
-    issue_number: issueNumber,
-    state: 'closed'
-  });
+  if ((!email || !emailExp.test(email)) || (!pet1 && !pet2 && !pet3 && !pet4 && !pet5)) {
+    core.info('empty');
+    await octokit.issues.createComment({
+      owner,
+      repo,
+      issue_number: issueNumber,
+      body: errBody,
+    });
+
+    await octokit.issues.removeLabel({
+      owner,
+      repo,
+      issue_number: issueNumber,
+      name: 'auto invited'
+    });
+
+    await octokit.issues.addLabels({
+      owner,
+      repo,
+      issue_number: issueNumber,
+      labels: ['need accurate info']
+    });
+  } else {
+    core.info('Adding a comment');
+    await octokit.issues.createComment({
+      owner,
+      repo,
+      issue_number: issueNumber,
+      body: issueBody,
+    });
+
+    core.info('Closing issue');
+    await octokit.issues.update({
+      owner,
+      repo,
+      issue_number: issueNumber,
+      state: 'closed'
+    });
+  }
 };
 
 async function invitePeople(email, pet) {
