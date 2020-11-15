@@ -40,7 +40,7 @@ async function main() {
         issue_number: issue.number,
         body: getIssueBody(issue.user.login),
       });
-  
+
       await octokit.issues.update({
         owner,
         repo,
@@ -52,9 +52,9 @@ async function main() {
 };
 
 function getIssueBody(issueAuth) {
-  return `⛱ Hi, @${issueAuth}. This issue will be closed because it has not been active for a long time. If you have any questions, please comment below.
+  return `😥 Hi, @${issueAuth}. This issue will be closed because it has not been active for a long time. If you have any questions, please comment below.
 
-⛱ 你好，@${issueAuth}。这个 issue 由于较长时间未活跃，将要被关闭，如果你有任何问题，欢迎在下方评论。
+😥 你好，@${issueAuth}。这个 issue 由于较长时间未活跃，将要被关闭，如果你有任何问题，欢迎在下方评论。
 
 <!-- Created by zoo-js-bot with GitHub Actios. -->
 `
