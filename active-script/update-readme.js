@@ -75,7 +75,7 @@ function getCnName(pet) {
 async function getOrganizations() {
   try {
     const res = await axios.get(url);
-    organizations = res.data.data;
+    organizations = res.data.data.sort((a, b) => a.name.localeCompare(b.name));
   } catch(err) {
     console.log(err);
   }
