@@ -1,6 +1,6 @@
 ---
 name: 💖 萌宠领养直接申请
-about: Cute pet adoption
+about: Cute pet adoption.
 title: '[New] 申请'
 labels: '💖 Application'
 assignees:

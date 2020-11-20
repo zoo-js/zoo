@@ -1,6 +1,6 @@
 ---
 name: 🐛 报告 bug
-about: Report Bug
+about: Report Bug.
 title: '[BUG] Report bug'
 labels: '🐛 bug'
 assignees:
