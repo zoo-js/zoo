@@ -1,4 +1,4 @@
-# 🌈 Cute pet zoo
+# 🌈 Cute zoo
 
 The cute pet zoo has opened, do you want to have the cute pets below? Come and adopt it.
 
@@ -10,7 +10,7 @@ People distribution charts: https://zoo-js.github.io/zoo-charts/
 
 If your favorite pet is not in the following list, please raise it in the [issue][issue-new].
 
-## ✨ Cute pet list ( 103 )
+## ✨ Cute list ( 103 )
 
 <!-- START -->
 
