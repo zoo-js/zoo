@@ -1,9 +1,9 @@
 ---
-name: Report Bug 🐛
-about: 报告 bug
+name: 🐛 报告 bug
+about: Report Bug
 title: '[BUG] Report bug'
 labels: '🐛 bug'
-assignees: 
+assignees:
 ---
 
 ### 🐛 Bug 描述 Bug description
