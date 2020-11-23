@@ -1,6 +1,8 @@
 name: Fix Need Info
 
-on: issue_comment
+on: 
+  issues:
+    types: [edited]
 
 jobs:
   fix-need-info:
