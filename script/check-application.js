@@ -24,7 +24,12 @@ const maxBody = `😅 At present, in principle, only 5 small cute items are supp
 <!-- Created by zoo-js-bot with GitHub Actios. -->
 `;
 
-const octokit = new Octokit({ auth: `token ${githubToken}` });
+const octokit = new Octokit({
+  auth: `token ${githubToken}`,
+  request: {
+    timeout: 2000
+  }
+});
 
 const owner = 'zoo-js';
 const repo = 'zoo';
@@ -32,32 +37,6 @@ const url = 'https://raw.githubusercontent.com/zoo-js/zoo-data/main/json/organiz
 let organizations = [];
 
 async function main() {
-  if (organizations.length === 0) return false;
-
-  const lables = await octokit.issues.listEventsForTimeline({
-    owner,
-    repo,
-    issue_number: issueNumber,
-  })
-
-  // Check if created by zoo-issue-helper
-  // 目前仅开发网页申请的自动处理，手动填格式大概率不符。
-  if (lables.data[0].actor.login !== 'zoo-js-bot') return false;
-
-  const user = await octokit.orgs.listForAuthenticatedUser({
-    username: issueAuth
-  })
-
-  // Check user if have 5 
-  const organization = JSON.stringify(organizations);
-  let userNowOrg = 0; // user now number
-  const userOrgs = user.data;
-  for (let i = 0; i < userOrgs.length; i++) {
-    if (organization.indexOf(userOrgs[i].login) != -1) {
-      userNowOrg += 1;
-    }
-  }
-  
   const res = await octokit.issues.get({
     owner,
     repo,
@@ -114,27 +93,53 @@ async function main() {
       issue_number: issueNumber,
       labels: ['need accurate info']
     });
-  } else if (userNowOrg + userNowApp > 5) {
-    await octokit.issues.createComment({
-      owner,
-      repo,
-      issue_number: issueNumber,
-      body: maxBody,
-    });
-
-    await octokit.issues.update({
-      owner,
-      repo,
-      issue_number: issueNumber,
-      state: 'closed'
-    });
   } else {
-    await octokit.issues.addLabels({
-      owner,
-      repo,
-      issue_number: issueNumber,
-      labels: ['auto invited']
+    await getOrganizations();
+    if (organizations.length === 0) return false;
+
+    let userNowOrg = 0; // user now number
+    for (let i = 0; i < organizations.length; i++) {
+      let checkStatus = await checkMembershipForUser(organizations[i].fullName, issueAuth);
+      console.log(organizations[i].fullName, Number(checkStatus) == 204);
+      if (Number(checkStatus) == 204) {
+        userNowOrg += 1;
+      }
+    }
+
+    if (userNowOrg + userNowApp > 5) {
+      await octokit.issues.createComment({
+        owner,
+        repo,
+        issue_number: issueNumber,
+        body: maxBody,
+      });
+
+      await octokit.issues.update({
+        owner,
+        repo,
+        issue_number: issueNumber,
+        state: 'closed'
+      });
+    } else {
+      await octokit.issues.addLabels({
+        owner,
+        repo,
+        issue_number: issueNumber,
+        labels: ['auto invited']
+      });
+    }
+  }
+};
+
+async function checkMembershipForUser(org, username) {
+  try {
+    let res = await octokit.orgs.checkMembershipForUser({
+      org,
+      username
     });
+    return res.status;
+  } catch (err) {
+    return 404
   }
 };
 
@@ -148,6 +153,5 @@ async function getOrganizations() {
 };
 
 (async () => {
-  await getOrganizations();
   await main();
 })();
