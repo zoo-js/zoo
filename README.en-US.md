@@ -10,11 +10,28 @@ People distribution charts: https://zoo-js.github.io/zoo-charts/
 
 If your favorite pet is not in the following list, please raise it in the [issue][issue-new].
 
-## ✨ Cute list ( 123 )
+## ✨ Cute list ( 129 )
 
 <!-- START -->
 
-<table><tr>
+<table>
+<tr>
+  <td align="center"><a href="https://github.com/family-lovey" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909267?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/dad-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909002?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/mom-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909025?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/son-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909162?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/girl-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909206?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/js-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909967?s=200&v=4" width="50" /></a></td>
+</tr>
+<tr>
+  <td width="160" align="center">family<br />家</td>
+  <td width="160" align="center">dad<br />爸爸</td>
+  <td width="160" align="center">mom<br />妈妈</td>
+  <td width="160" align="center">son<br />儿子</td>
+  <td width="160" align="center">girl<br />女儿</td>
+  <td width="160" align="center">js<br />JS</td>
+</tr>
+<tr>
   <td align="center"><a href="https://github.com/acorn-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277347?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/alpaca-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752315?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/angel-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403136?s=200&v=4" width="50" /></a></td>
@@ -341,6 +358,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
 ## 💖 Purpose
 
 - 🎁 For fun and good-looking!
+- 💖 For Love!
 - 🙂 Animals are our friends, please cherish!
 - 🌏 We only have one world!
 
