@@ -27,8 +27,8 @@ const issueBody = `🎈 Hi, @${issueAuth}. We cannot accurately obtain your emai
 
 ---
 
-**After you complete the information, you can comment and reply to any content to trigger the verification again.**
-**当您完善信息后，可评论回复任意内容重新触发校验。**
+**After you modify the application information, the verification can be triggered automatically.**
+**当您修改申请信息后，可自动触发校验。**
 
 <!-- Created by zoo-js-bot with GitHub Actios. -->
 `;
