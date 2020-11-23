@@ -17,18 +17,8 @@ const errBody = `🚨 The format of the application issue does not match, please
 <!-- Created by zoo-js-bot with GitHub Actios. -->
 `;
 
-const maxBody = `😅 At present, in principle, only 5 small cute items are supported by one person. Please choose carefully.
-
-😅 目前原则上仅支持单人领取 5 只 小萌物，请大家谨慎挑选。
-
-<!-- Created by zoo-js-bot with GitHub Actios. -->
-`;
-
 const octokit = new Octokit({
   auth: `token ${githubToken}`,
-  request: {
-    timeout: 2000
-  }
 });
 
 const owner = 'zoo-js';
@@ -96,50 +86,12 @@ async function main() {
   } else {
     await getOrganizations();
     if (organizations.length === 0) return false;
-
-    let userNowOrg = 0; // user now number
-    for (let i = 0; i < organizations.length; i++) {
-      let checkStatus = await checkMembershipForUser(organizations[i].fullName, issueAuth);
-      console.log(organizations[i].fullName, Number(checkStatus) == 204);
-      if (Number(checkStatus) == 204) {
-        userNowOrg += 1;
-      }
-    }
-
-    if (userNowOrg + userNowApp > 5) {
-      await octokit.issues.createComment({
-        owner,
-        repo,
-        issue_number: issueNumber,
-        body: maxBody,
-      });
-
-      await octokit.issues.update({
-        owner,
-        repo,
-        issue_number: issueNumber,
-        state: 'closed'
-      });
-    } else {
-      await octokit.issues.addLabels({
-        owner,
-        repo,
-        issue_number: issueNumber,
-        labels: ['auto invited']
-      });
-    }
-  }
-};
-
-async function checkMembershipForUser(org, username) {
-  try {
-    let res = await octokit.orgs.checkMembershipForUser({
-      org,
-      username
+    await octokit.issues.addLabels({
+      owner,
+      repo,
+      issue_number: issueNumber,
+      labels: ['auto invited']
     });
-    return res.status;
-  } catch (err) {
-    return 404
   }
 };
 
