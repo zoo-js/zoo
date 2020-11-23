@@ -13,8 +13,7 @@ function main() {
   const baseReadmeEn = readFileSync('./base/README.en-US.base.md', { encoding:'utf8', flag:'r' });
 
   for (let i = 0; i< orgs.length; i++) {
-    let name = orgs[i].name
-    if (name != 'dad' && name != 'mom' && name != 'son' && name != 'girl' && name != 'family' && name != 'js') {
+    if (!orgs[i].main) {
       organizations.push(orgs[i])
     }
   }
