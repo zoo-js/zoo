@@ -1,0 +1,19 @@
+name: Fix Need Info
+
+on: issue_comment
+
+jobs:
+  fix-need-info:
+    if: ${{ !github.event.issue.pull_request }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+        
+      - name: install
+        run: yarn
+
+      - name: node js
+        run: node ./script/fix-need-info.js
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
