@@ -18,5 +18,4 @@ jobs:
         run: node ./script/check-application.js
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          ISSUE_AUTH: ${{ github.event.issue.user.login }}
           ISSUE_NUMBER: ${{ github.event.issue.number }}
