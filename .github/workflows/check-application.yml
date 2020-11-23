@@ -1,0 +1,22 @@
+name: Check Application
+
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  check-application:
+    runs-on: ubuntu-latest
+    if: github.event.label.name == '💖 Application'
+    steps:
+      - uses: actions/checkout@master
+        
+      - name: install
+        run: yarn
+
+      - name: auto invite
+        run: node ./script/check-application.js
+        env:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          ISSUE_AUTH: ${{ github.event.issue.user.login }}
+          ISSUE_NUMBER: ${{ github.event.issue.number }}
