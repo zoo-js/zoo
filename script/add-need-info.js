@@ -27,7 +27,10 @@ const issueBody = `🎈 Hi, @${issueAuth}. We cannot accurately obtain your emai
 
 ---
 
+<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />
+
 **After you modify the application information, the verification can be triggered automatically.**
+
 **当您修改申请信息后，可自动触发校验。**
 
 <!-- Created by zoo-js-bot with GitHub Actios. -->
