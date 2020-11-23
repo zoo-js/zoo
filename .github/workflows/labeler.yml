@@ -9,6 +9,6 @@ jobs:
     steps:
     - uses: github/issue-labeler@v2.0
       with:
-        repo-token: "${{ secrets.GITHUB_TOKEN }}"
+        repo-token: "${{ secrets.GH_TOKEN }}"
         configuration-path: .github/labeler.yml
         enable-versioned-regex: 0
