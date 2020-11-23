@@ -25,6 +25,11 @@ const issueBody = `🎈 Hi, @${issueAuth}. We cannot accurately obtain your emai
 
 ![](https://user-images.githubusercontent.com/29775873/98193446-32839780-1f58-11eb-8cf1-e66a37e65981.png)
 
+---
+
+**After you complete the information, you can comment and reply to any content to trigger the verification again.**
+**当您完善信息后，可评论回复任意内容重新触发校验。**
+
 <!-- Created by zoo-js-bot with GitHub Actios. -->
 `;
 

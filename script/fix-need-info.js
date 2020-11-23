@@ -1,12 +1,11 @@
 require('dotenv').config();
 const { Octokit } = require('@octokit/rest');
-const axios = require('axios');
 
 const {
   GH_TOKEN: githubToken,
   ISSUE_NUMBER,
 } = process.env;
-const issueNumber = ISSUE_NUMBER || 87;
+const issueNumber = ISSUE_NUMBER || 89;
 
 const errBody = `🚨 The format of the application issue does not match, please check **email** or **pets list**.
 
@@ -21,8 +20,6 @@ const octokit = new Octokit({
 
 const owner = 'zoo-js';
 const repo = 'zoo';
-const url = 'https://raw.githubusercontent.com/zoo-js/zoo-data/main/json/organizations.json';
-let organizations = [];
 
 async function main() {
   const res = await octokit.issues.get({
@@ -30,6 +27,8 @@ async function main() {
     repo,
     issue_number: issueNumber
   });
+
+  if (JSON.stringify(res.data.labels).indexOf('need accurate info') == -1) return false
 
   const targetArr = res.data.body.split('\r\n');
   var email, pet1, pet2, pet3, pet4, pet5;
@@ -73,14 +72,14 @@ async function main() {
       issue_number: issueNumber,
       body: errBody,
     });
-
-    await octokit.issues.addLabels({
+  } else {
+    await octokit.issues.removeLabel({
       owner,
       repo,
       issue_number: issueNumber,
-      labels: ['need accurate info']
+      name: 'need accurate info'
     });
-  } else {
+
     await octokit.issues.addLabels({
       owner,
       repo,
