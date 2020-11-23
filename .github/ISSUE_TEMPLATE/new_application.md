@@ -1,6 +1,6 @@
 ---
-name: 💖 萌宠领养直接申请
-about: Cute pet adoption.
+name: 💖 萌物领养直接申请
+about: Cute adoption.
 title: '[New] 申请'
 labels: '💖 Application'
 assignees:
@@ -16,7 +16,7 @@ GitHub Email: xxx@xx.xx
 <!-- 请在上方输入你的 GitHub 邮箱 -->
 <!-- Please enter your GitHub Email above -->
 
-### 🌏 领养宠物 Adopt pets
+### 🌏 领养萌物 Adopt
 
 1. xx
 2. 
@@ -25,7 +25,7 @@ GitHub Email: xxx@xx.xx
 5. 
 
 <!--
-请在上方填写你想要领养的小宠物，原则上仅支持单人领养5只小宠物，请大家谨慎挑选。超出5个，会取前5个哦。若您心仪的萌宠没列出，欢迎提出。
+请在上方填写你想要领养的萌物，原则上仅支持单人领养5个，请大家谨慎挑选。超出5个，会取前5个哦。若您心仪的萌物没列出，欢迎提出。
 -->
 <!--
 Please fill in the small pets you want to adopt at the top. In principle, only 5 small pets can be adopted by one person. Please choose carefully. If there are more than 5, the first 5 will be taken. If your favorite pet is not listed, please suggest.

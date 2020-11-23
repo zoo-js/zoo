@@ -1,6 +1,6 @@
 ---
-name: 🌟 新萌宠、需求、功能、建议
-about: New cute pets, needs, functions, suggestions.
+name: 🌟 新萌物、需求、功能、建议
+about: New cute, needs, functions, suggestions.
 title: '[Feature] New function'
 labels: '🌟 To do'
 assignees:
