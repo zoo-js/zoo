@@ -5,7 +5,7 @@ on:
     - cron: "0 12 */7 * *"
 
 jobs:
-  check-issue:
+  check-need-info:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@master
@@ -13,7 +13,7 @@ jobs:
       - name: Install
         run: yarn
 
-      - name: Update data
+      - name: node js
         run: node ./script/check-need-info.js
         env:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
