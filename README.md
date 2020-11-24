@@ -20,7 +20,7 @@
 
 <!-- START -->
 
-### 技术
+### 技术 ( 9 )
 
 <table><tr>
   <td align="center"><a href="https://github.com/bug-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403263?s=200&v=4" width="50" /></a></td>
@@ -54,7 +54,7 @@
   <td width="160" align="center"></td>
 </tr></table>
 
-### 生活
+### 生活 ( 18 )
 
 <table><tr>
   <td align="center"><a href="https://github.com/heart-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603614?s=200&v=4" width="50" /></a></td>
@@ -103,7 +103,7 @@
   <td width="160" align="center">girl<br />女儿</td>
 </tr></table>
 
-### 动物
+### 动物 ( 76 )
 
 <table><tr>
   <td align="center"><a href="https://github.com/alpaca-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752315?s=200&v=4" width="50" /></a></td>
@@ -302,7 +302,7 @@
   <td width="160" align="center"></td>
 </tr></table>
 
-### 食物
+### 食物 ( 22 )
 
 <table><tr>
   <td align="center"><a href="https://github.com/acorn-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277347?s=200&v=4" width="50" /></a></td>
@@ -366,7 +366,7 @@
   <td width="160" align="center"></td>
 </tr></table>
 
-### 自然
+### 自然 ( 8 )
 
 <table><tr>
   <td align="center"><a href="https://github.com/earth-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72246621?s=200&v=4" width="50" /></a></td>

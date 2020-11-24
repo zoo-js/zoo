@@ -52,6 +52,11 @@ function main() {
 
   // cn
   let newReadme = baseReadme.replace('UPDATE_README_NUMBER', orgs.length);
+  newReadme = newReadme.replace('UPDATE_TECHNOLOGY_NUMBER', technology.length);
+  newReadme = newReadme.replace('UPDATE_LIFE_NUMBER', life.length);
+  newReadme = newReadme.replace('UPDATE_ANIMAL_NUMBER', animal.length);
+  newReadme = newReadme.replace('UPDATE_FOOD_NUMBER', food.length);
+  newReadme = newReadme.replace('UPDATE_NATURAL_NUMBER', natural.length);
   newReadme = newReadme.replace('UPDATE_TECHNOLOGY_TABLE', `<table>${technologyTable}</table>`);
   newReadme = newReadme.replace('UPDATE_LIFE_TABLE', `<table>${lifeTable}</table>`);
   newReadme = newReadme.replace('UPDATE_ANIMAL_TABLE', `<table>${animalTable}</table>`);
@@ -65,6 +70,11 @@ function main() {
 
   // en
   let newReadmeEn = baseReadmeEn.replace('UPDATE_README_NUMBER', orgs.length);
+  newReadmeEn = newReadmeEn.replace('UPDATE_TECHNOLOGY_NUMBER', technology.length);
+  newReadmeEn = newReadmeEn.replace('UPDATE_LIFE_NUMBER', life.length);
+  newReadmeEn = newReadmeEn.replace('UPDATE_ANIMAL_NUMBER', animal.length);
+  newReadmeEn = newReadmeEn.replace('UPDATE_FOOD_NUMBER', food.length);
+  newReadmeEn = newReadmeEn.replace('UPDATE_NATURAL_NUMBER', natural.length);
   newReadmeEn = newReadmeEn.replace('UPDATE_TECHNOLOGY_TABLE', `<table>${technologyTable}</table>`);
   newReadmeEn = newReadmeEn.replace('UPDATE_LIFE_TABLE', `<table>${lifeTable}</table>`);
   newReadmeEn = newReadmeEn.replace('UPDATE_ANIMAL_TABLE', `<table>${animalTable}</table>`);

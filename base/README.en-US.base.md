@@ -20,23 +20,23 @@ If your favorite pet is not in the following list, please raise it in the [issue
 
 <!-- START -->
 
-### Technology
+### Technology ( UPDATE_TECHNOLOGY_NUMBER )
 
 UPDATE_TECHNOLOGY_TABLE
 
-### Life
+### Life ( UPDATE_LIFE_NUMBER )
 
 UPDATE_LIFE_TABLE
 
-### Animal
+### Animal ( UPDATE_ANIMAL_NUMBER )
 
 UPDATE_ANIMAL_TABLE
 
-### Food
+### Food ( UPDATE_FOOD_NUMBER )
 
 UPDATE_FOOD_TABLE
 
-### Natural
+### Natural ( UPDATE_NATURAL_NUMBER )
 
 UPDATE_NATURAL_TABLE
 
