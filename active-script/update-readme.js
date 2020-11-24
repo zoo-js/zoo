@@ -5,29 +5,84 @@ const { format } = require('prettier');
 const { stripIndent } = require('common-tags');
 
 const url = 'https://raw.githubusercontent.com/zoo-js/zoo-data/main/json/organizations.json';
-var organizations = [];
-var orgs = [];
+
+var orgs = [];  // 总
+var animal = [];
+var food = [];
+var natural = [];
+var life = [];
+var technology = [];
 
 function main() {
   const baseReadme = readFileSync('./base/README.base.md', { encoding:'utf8', flag:'r' });
   const baseReadmeEn = readFileSync('./base/README.en-US.base.md', { encoding:'utf8', flag:'r' });
 
-  for (let i = 0; i< orgs.length; i++) {
-    if (!orgs[i].main) {
-      organizations.push(orgs[i])
-    }
-  }
-
-  if (organizations.length == 0) {
-    console.log(`organizations 0`);
+  if (orgs.length == 0) {
+    console.log(`orgs 0`);
     return false;
   }
 
+  for (let i = 0; i < orgs.length; i++) {
+    if (orgs[i].type === 'animal') {
+      animal.push(orgs[i])
+    }
+    if (orgs[i].type === 'food') {
+      food.push(orgs[i])
+    }
+    if (orgs[i].type === 'natural') {
+      natural.push(orgs[i])
+    }
+    if (orgs[i].type === 'life') {
+      life.push(orgs[i])
+    }
+    if (orgs[i].type === 'technology') {
+      technology.push(orgs[i])
+    }
+  }
+
+  animal = animal.sort((a, b) => a.name.localeCompare(b.name));
+  food = food.sort((a, b) => a.name.localeCompare(b.name));
+  natural = natural.sort((a, b) => a.name.localeCompare(b.name));
+
+  const animalTable = getContent(animal);
+  const foodTable = getContent(food);
+  const naturalTable = getContent(natural);
+  const lifeTable = getContent(life);
+  const technologyTable = getContent(technology);
+
+  // cn
+  let newReadme = baseReadme.replace('UPDATE_README_NUMBER', orgs.length);
+  newReadme = newReadme.replace('UPDATE_TECHNOLOGY_TABLE', `<table>${technologyTable}</table>`);
+  newReadme = newReadme.replace('UPDATE_LIFE_TABLE', `<table>${lifeTable}</table>`);
+  newReadme = newReadme.replace('UPDATE_ANIMAL_TABLE', `<table>${animalTable}</table>`);
+  newReadme = newReadme.replace('UPDATE_FOOD_TABLE', `<table>${foodTable}</table>`);
+  newReadme = newReadme.replace('UPDATE_NATURAL_TABLE', `<table>${naturalTable}</table>`);
+  const newReadmeFormatted = format(newReadme, {
+    parser: 'markdown',
+  });
+  writeFileSync('./README.md', newReadmeFormatted);
+  console.log(`🎉 Done readme`);
+
+  // en
+  let newReadmeEn = baseReadmeEn.replace('UPDATE_README_NUMBER', orgs.length);
+  newReadmeEn = newReadmeEn.replace('UPDATE_TECHNOLOGY_TABLE', `<table>${technologyTable}</table>`);
+  newReadmeEn = newReadmeEn.replace('UPDATE_LIFE_TABLE', `<table>${lifeTable}</table>`);
+  newReadmeEn = newReadmeEn.replace('UPDATE_ANIMAL_TABLE', `<table>${animalTable}</table>`);
+  newReadmeEn = newReadmeEn.replace('UPDATE_FOOD_TABLE', `<table>${foodTable}</table>`);
+  newReadmeEn = newReadmeEn.replace('UPDATE_NATURAL_TABLE', `<table>${naturalTable}</table>`);
+  const newReadmeEnFormatted = format(newReadmeEn, {
+    parser: 'markdown',
+  });
+  writeFileSync('./README.en-US.md', newReadmeEnFormatted);
+  console.log(`🎉 Done readme-us`);
+};
+
+function getContent (organizations) {
   let content = '';
   let row = organizations.length / 6;
-  const lastNo = organizations.length % 6;
+  let lastNo = organizations.length % 6;
   if (lastNo != 0) row += 1;
-  for (var j = 1; j <= row; j++) {
+  for (let j = 1; j <= row; j++) {
     let data = '';
     data = stripIndent`
       <tr>
@@ -49,22 +104,7 @@ function main() {
     `;
     content += data
   }
-
-  let newReadme = baseReadme.replace('UPDATE_README_NUMBER', orgs.length);
-  newReadme = newReadme.replace('UPDATE_README_TABLE', `${content}</table>`);
-  const newReadmeFormatted = format(newReadme, {
-    parser: 'markdown',
-  });
-  writeFileSync('./README.md', newReadmeFormatted);
-  console.log(`🎉 Done readme`);
-
-  let newReadmeEn = baseReadmeEn.replace('UPDATE_README_NUMBER', orgs.length);
-  newReadmeEn = newReadmeEn.replace('UPDATE_README_TABLE', `${content}</table>`);
-  const newReadmeEnFormatted = format(newReadmeEn, {
-    parser: 'markdown',
-  });
-  writeFileSync('./README.en-US.md', newReadmeEnFormatted);
-  console.log(`🎉 Done readme-us`);
+  return content;
 };
 
 function getFullName(pet) {
@@ -84,7 +124,7 @@ function getCnName(pet) {
 async function getOrganizations() {
   try {
     const res = await axios.get(url);
-    orgs = res.data.data.sort((a, b) => a.name.localeCompare(b.name));
+    orgs = res.data.data;
   } catch(err) {
     console.log(err);
   }

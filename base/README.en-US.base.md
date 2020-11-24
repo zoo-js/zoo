@@ -12,26 +12,33 @@ If your favorite pet is not in the following list, please raise it in the [issue
 
 ## ✨ Cute list ( UPDATE_README_NUMBER )
 
+- [Technology](#Technology)
+- [Life](#Life)
+- [Animal](#Animal)
+- [Food](#Food)
+- [Natural](#Natural)
+
 <!-- START -->
 
-<table>
-<tr>
-  <td align="center"><a href="https://github.com/family-lovey" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909267?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/dad-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909002?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/mom-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909025?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/son-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909162?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/girl-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909206?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/js-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909967?s=200&v=4" width="50" /></a></td>
-</tr>
-<tr>
-  <td width="160" align="center">family<br />家</td>
-  <td width="160" align="center">dad<br />爸爸</td>
-  <td width="160" align="center">mom<br />妈妈</td>
-  <td width="160" align="center">son<br />儿子</td>
-  <td width="160" align="center">girl<br />女儿</td>
-  <td width="160" align="center">js<br />JS</td>
-</tr>
-UPDATE_README_TABLE
+### Technology
+
+UPDATE_TECHNOLOGY_TABLE
+
+### Life
+
+UPDATE_LIFE_TABLE
+
+### Animal
+
+UPDATE_ANIMAL_TABLE
+
+### Food
+
+UPDATE_FOOD_TABLE
+
+### Natural
+
+UPDATE_NATURAL_TABLE
 
 <!-- Created by update-readme.js. -->
 <!-- END -->

@@ -12,26 +12,33 @@
 
 ## ✨ 萌物列表 ( UPDATE_README_NUMBER )
 
+- [技术](#技术)
+- [生活](#生活)
+- [动物](#动物)
+- [食物](#食物)
+- [自然](#自然)
+
 <!-- START -->
 
-<table>
-<tr>
-  <td align="center"><a href="https://github.com/family-lovey" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909267?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/dad-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909002?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/mom-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909025?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/son-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909162?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/girl-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909206?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/js-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909967?s=200&v=4" width="50" /></a></td>
-</tr>
-<tr>
-  <td width="160" align="center">family<br />家</td>
-  <td width="160" align="center">dad<br />爸爸</td>
-  <td width="160" align="center">mom<br />妈妈</td>
-  <td width="160" align="center">son<br />儿子</td>
-  <td width="160" align="center">girl<br />女儿</td>
-  <td width="160" align="center">js<br />JS</td>
-</tr>
-UPDATE_README_TABLE
+### 技术
+
+UPDATE_TECHNOLOGY_TABLE
+
+### 生活
+
+UPDATE_LIFE_TABLE
+
+### 动物
+
+UPDATE_ANIMAL_TABLE
+
+### 食物
+
+UPDATE_FOOD_TABLE
+
+### 自然
+
+UPDATE_NATURAL_TABLE
 
 <!-- Created by update-readme.js. -->
 <!-- END -->
