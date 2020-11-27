@@ -10,7 +10,7 @@
 
 若您心仪的萌物没在以下列表内，欢迎在 [issue][issue-new] 中提出。
 
-## ✨ 萌物列表 ( 133 )
+## ✨ 萌物列表 ( 134 )
 
 - [技术](#技术)
 - [生活](#生活)
@@ -54,53 +54,68 @@
   <td width="160" align="center"></td>
 </tr></table>
 
-### 生活 ( 18 )
+### 生活 ( 19 )
 
 <table><tr>
-  <td align="center"><a href="https://github.com/heart-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603614?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/eve-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277666?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/walle-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277694?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/mermaid-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74278228?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/bot-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767385?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/ufo-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767474?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/awesome-airplane" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75106065?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/money-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74278308?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/angel-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403136?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
-  <td width="160" align="center">heart<br />心</td>
   <td width="160" align="center">eve<br />伊娃</td>
   <td width="160" align="center">walle<br />瓦力</td>
-  <td width="160" align="center">mermaid<br />美人鱼</td>
+  <td width="160" align="center">bot<br />机器人</td>
+  <td width="160" align="center">ufo<br />UFO</td>
+  <td width="160" align="center">airplane<br />飞机</td>
   <td width="160" align="center">money<br />钱袋</td>
-  <td width="160" align="center">angel<br />天使</td>
 </tr><tr>
+  <td align="center"><a href="https://github.com/paper-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74776672?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/mermaid-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74278228?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/angel-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403136?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/devil-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403233?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/mario-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74766766?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/hat-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74766840?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/guitar-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767123?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/bot-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767385?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/ufo-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767474?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
+  <td width="160" align="center">paper<br />卷纸</td>
+  <td width="160" align="center">mermaid<br />美人鱼</td>
+  <td width="160" align="center">angel<br />天使</td>
   <td width="160" align="center">devil<br />恶魔</td>
   <td width="160" align="center">mario<br />马里奥</td>
   <td width="160" align="center">hat<br />草帽</td>
-  <td width="160" align="center">guitar<br />吉他</td>
-  <td width="160" align="center">bot<br />机器人</td>
-  <td width="160" align="center">ufo<br />UFO</td>
 </tr><tr>
-  <td align="center"><a href="https://github.com/paper-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74776672?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/guitar-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767123?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/heart-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603614?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/family-lovey" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909267?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/dad-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909002?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/mom-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909025?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/son-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909162?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/girl-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909206?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
-  <td width="160" align="center">paper<br />卷纸</td>
+  <td width="160" align="center">guitar<br />吉他</td>
+  <td width="160" align="center">heart<br />心</td>
   <td width="160" align="center">family<br />家</td>
   <td width="160" align="center">dad<br />爸爸</td>
   <td width="160" align="center">mom<br />妈妈</td>
   <td width="160" align="center">son<br />儿子</td>
+</tr><tr>
+  <td align="center"><a href="https://github.com/girl-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909206?s=200&v=4" width="50" /></a></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"></td>
+</tr>
+<tr>
   <td width="160" align="center">girl<br />女儿</td>
+  <td width="160" align="center"></td>
+  <td width="160" align="center"></td>
+  <td width="160" align="center"></td>
+  <td width="160" align="center"></td>
+  <td width="160" align="center"></td>
 </tr></table>
 
 ### 动物 ( 76 )
