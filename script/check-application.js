@@ -1,6 +1,5 @@
 require('dotenv').config();
 const { Octokit } = require('@octokit/rest');
-const axios = require('axios');
 
 const {
   GH_TOKEN: githubToken,
@@ -21,8 +20,6 @@ const octokit = new Octokit({
 
 const owner = 'zoo-js';
 const repo = 'zoo';
-const url = 'https://raw.githubusercontent.com/zoo-js/zoo-data/main/json/organizations.json';
-let organizations = [];
 
 async function main() {
   const res = await octokit.issues.get({
