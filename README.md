@@ -10,7 +10,7 @@
 
 若您心仪的萌物没在以下列表内，欢迎在 [issue][issue-new] 中提出。
 
-## ✨ 萌物列表 ( 141 )
+## ✨ 萌物列表 ( 142 )
 
 - [技术](#技术)
 - [生活](#生活)
@@ -118,13 +118,13 @@
   <td width="160" align="center"></td>
 </tr></table>
 
-### 动物 ( 77 )
+### 动物 ( 78 )
 
 <table><tr>
   <td align="center"><a href="https://github.com/alpaca-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752315?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/ant-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70746215?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/bat-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783585?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/bear-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70750582?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/bear-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70750582?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/beetle-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752362?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/bird-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70757307?s=200&v=4" width="50" /></a></td>
 </tr>
@@ -257,64 +257,64 @@
   <td width="160" align="center">pigeon<br />鸽子</td>
 </tr><tr>
   <td align="center"><a href="https://github.com/pikachu-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783107?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/polarbear-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75253783?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/rabbit-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783302?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/raccoon-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403310?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/reindeer-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70757664?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/rhinoceros-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783273?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/shark-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783812?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
   <td width="160" align="center">pikachu<br />皮卡丘</td>
+  <td width="160" align="center">polarbear<br />北极熊</td>
   <td width="160" align="center">rabbit<br />兔子</td>
   <td width="160" align="center">raccoon<br />浣熊</td>
   <td width="160" align="center">reindeer<br />驯鹿</td>
   <td width="160" align="center">rhinoceros<br />犀牛</td>
-  <td width="160" align="center">shark<br />鲨鱼</td>
 </tr><tr>
+  <td align="center"><a href="https://github.com/shark-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783812?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/sheep-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70750007?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/shrimp-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74776209?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/sloth-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403343?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/snail-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70751299?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/snake-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70750638?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/spider-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72592115?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
+  <td width="160" align="center">shark<br />鲨鱼</td>
   <td width="160" align="center">sheep<br />羊</td>
   <td width="160" align="center">shrimp<br />虾</td>
   <td width="160" align="center">sloth<br />树獭</td>
   <td width="160" align="center">snail<br />蜗牛</td>
   <td width="160" align="center">snake<br />蛇</td>
-  <td width="160" align="center">spider<br />蜘蛛</td>
 </tr><tr>
+  <td align="center"><a href="https://github.com/spider-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72592115?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/squirrel-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783453?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/starfish-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74766927?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/swallow-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752630?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/swan-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70757521?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/tiger-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752665?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/tortoise-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783027?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
+  <td width="160" align="center">spider<br />蜘蛛</td>
   <td width="160" align="center">squirrel<br />松鼠</td>
   <td width="160" align="center">starfish<br />海星</td>
   <td width="160" align="center">swallow<br />燕子</td>
   <td width="160" align="center">swan<br />天鹅</td>
   <td width="160" align="center">tiger<br />老虎</td>
-  <td width="160" align="center">tortoise<br />乌龟</td>
 </tr><tr>
-  <td align="center"><a href="https://github.com/totoro-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783073?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/tortoise-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783027?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/totoro-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783073?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/unicorn-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783423?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/whale-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752793?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/wolf-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70870347?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/zebra-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752158?s=200&v=4" width="50" /></a></td>
-  <td align="center"></td>
 </tr>
 <tr>
+  <td width="160" align="center">tortoise<br />乌龟</td>
   <td width="160" align="center">totoro<br />龙猫</td>
   <td width="160" align="center">unicorn<br />独角兽</td>
   <td width="160" align="center">whale<br />鲸鱼</td>
   <td width="160" align="center">wolf<br />狼</td>
   <td width="160" align="center">zebra<br />斑马</td>
-  <td width="160" align="center"></td>
 </tr></table>
 
 ### 食物 ( 22 )
@@ -323,7 +323,7 @@
   <td align="center"><a href="https://github.com/acorn-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277347?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/apple-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603505?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/banana-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72604097?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/beer-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603787?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/beer-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603787?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/carrot-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/73515996?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/cherry-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72604201?s=200&v=4" width="50" /></a></td>
 </tr>
