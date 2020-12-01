@@ -10,17 +10,11 @@ People distribution charts: https://zoo-js.github.io/zoo-charts/
 
 If your favorite pet is not in the following list, please raise it in the [issue][issue-new].
 
-## ✨ Cute list ( 142 )
-
-- [Technology](#Technology)
-- [Life](#Life)
-- [Animal](#Animal)
-- [Food](#Food)
-- [Natural](#Natural)
+## ✨ Cute list <kbd>142</kbd>
 
 <!-- START -->
 
-### Technology ( 9 )
+### Technology <kbd>9</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/bug-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403263?s=200&v=4" width="50" /></a></td>
@@ -54,9 +48,8 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td width="160" align="center"></td>
 </tr></table>
 
-### Life ( 22 )
+### Life <kbd><table><tr>
 
-<table><tr>
   <td align="center"><a href="https://github.com/eve-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277666?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/walle-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277694?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/bot-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767385?s=200&v=4" width="50" /></a></td>
@@ -116,11 +109,12 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td width="160" align="center">girl<br />女儿</td>
   <td width="160" align="center"></td>
   <td width="160" align="center"></td>
-</tr></table>
+</tr></table></kbd>
 
-### Animal ( 78 )
+UPDATE_LIFE_TABLE
 
-<table><tr>
+### Animal <kbd><table><tr>
+
   <td align="center"><a href="https://github.com/alpaca-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752315?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/ant-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70746215?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/bat-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783585?s=200&v=4" width="50" /></a></td>
@@ -315,11 +309,12 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td width="160" align="center">whale<br />鲸鱼</td>
   <td width="160" align="center">wolf<br />狼</td>
   <td width="160" align="center">zebra<br />斑马</td>
-</tr></table>
+</tr></table></kbd>
 
-### Food ( 22 )
+UPDATE_ANIMAL_TABLE
 
-<table><tr>
+### Food <kbd><table><tr>
+
   <td align="center"><a href="https://github.com/acorn-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277347?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/apple-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603505?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/banana-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72604097?s=200&v=4" width="50" /></a></td>
@@ -379,11 +374,12 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td width="160" align="center">watermelon<br />西瓜</td>
   <td width="160" align="center"></td>
   <td width="160" align="center"></td>
-</tr></table>
+</tr></table></kbd>
 
-### Natural ( 11 )
+UPDATE_FOOD_TABLE
 
-<table><tr>
+### Natural <kbd><table><tr>
+
   <td align="center"><a href="https://github.com/bamboo-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75229454?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/earth-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72246621?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/flower-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603073?s=200&v=4" width="50" /></a></td>
@@ -413,7 +409,9 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td width="160" align="center">sun<br />太阳</td>
   <td width="160" align="center">tree<br />树林</td>
   <td width="160" align="center"></td>
-</tr></table>
+</tr></table></kbd>
+
+UPDATE_NATURAL_TABLE
 
 <!-- Created by update-readme.js. -->
 <!-- END -->
