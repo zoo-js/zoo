@@ -50,23 +50,18 @@ async function main() {
     }
     if (email && val.startsWith('1.') && val.length > 3) {
       pet1 = val.replace('1. ', '');
-      if (pet1) { await invitePeople(email, pet1); }
     }
     if (email && val.startsWith('2.') && val.length > 3) {
       pet2 = val.replace('2. ', '');
-      if (pet2) { await invitePeople(email, pet2); }
     }
     if (email && val.startsWith('3.') && val.length > 3) {
       pet3 = val.replace('3. ', '');
-      if (pet3) { await invitePeople(email, pet3); }
     }
     if (email && val.startsWith('4.') && val.length > 3) {
       pet4 = val.replace('4. ', '');
-      if (pet4) { await invitePeople(email, pet4); }
     }
     if (email && val.startsWith('5.') && val.length > 3) {
       pet5 = val.replace('5. ', '');
-      if (pet5) { await invitePeople(email, pet5); }
       break;
     }
   }
@@ -96,6 +91,12 @@ async function main() {
       labels: ['need accurate info']
     });
   } else {
+    core.info('Inviting ~~~~');
+    if (pet1) { await invitePeople(email, pet1); }
+    if (pet2) { await invitePeople(email, pet2); }
+    if (pet3) { await invitePeople(email, pet3); }
+    if (pet4) { await invitePeople(email, pet4); }
+    if (pet5) { await invitePeople(email, pet5); }
     core.info('Adding a comment');
     await octokit.issues.createComment({
       owner,
@@ -125,6 +126,7 @@ async function invitePeople(email, pet) {
     core.info(`Auto invited ${org}`);
   } else {
     core.info(`Get ${pet} fullName error!`);
+    return false;
   }
 };
 
