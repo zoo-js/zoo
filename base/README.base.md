@@ -59,3 +59,8 @@ UPDATE_NATURAL_TABLE
 新开一个 [issue][issue-new]，填写自己想要领取（加入）小萌物。同时原则上仅支持单人领取 **5 只** 小萌物，请大家谨慎挑选。一经挑选，请勿随意抛弃。谢谢大家！
 
 [issue-new]:https://github.com/zoo-js/zoo/issues/new/choose
+
+## 🎁 声明
+
+- 图标来源于互联网
+- 仅限学习、欣赏

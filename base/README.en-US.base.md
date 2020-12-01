@@ -59,3 +59,8 @@ UPDATE_NATURAL_TABLE
 Open a new [issue][issue-new] and fill in the pet that you want to adopt (join). At the same time, only one person adopts **5** small pets, please choose carefully. Once selected, please do not throw it away. thank you all!
 
 [issue-new]:https://github.com/zoo-js/zoo/issues/new/choose
+
+## 🎁 Statement
+
+- The icon comes from the Internet
+- Only for learning and appreciation
