@@ -18,19 +18,19 @@ If your favorite pet is not in the following list, please raise it in the [issue
 
 UPDATE_TECHNOLOGY_TABLE
 
-### Life <kbd>UPDATE_LIFE_TABLE</kbd>
+### Life <kbd>UPDATE_LIFE_NUMBER</kbd>
 
 UPDATE_LIFE_TABLE
 
-### Animal <kbd>UPDATE_ANIMAL_TABLE</kbd>
+### Animal <kbd>UPDATE_ANIMAL_NUMBER</kbd>
 
 UPDATE_ANIMAL_TABLE
 
-### Food <kbd>UPDATE_FOOD_TABLE</kbd>
+### Food <kbd>UPDATE_FOOD_NUMBER</kbd>
 
 UPDATE_FOOD_TABLE
 
-### Natural <kbd>UPDATE_NATURAL_TABLE</kbd>
+### Natural <kbd>UPDATE_NATURAL_NUMBER</kbd>
 
 UPDATE_NATURAL_TABLE
 

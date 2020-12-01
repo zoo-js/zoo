@@ -48,8 +48,9 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td width="160" align="center"></td>
 </tr></table>
 
-### Life <kbd><table><tr>
+### Life <kbd>22</kbd>
 
+<table><tr>
   <td align="center"><a href="https://github.com/eve-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277666?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/walle-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277694?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/bot-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767385?s=200&v=4" width="50" /></a></td>
@@ -109,12 +110,11 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td width="160" align="center">girl<br />女儿</td>
   <td width="160" align="center"></td>
   <td width="160" align="center"></td>
-</tr></table></kbd>
+</tr></table>
 
-UPDATE_LIFE_TABLE
+### Animal <kbd>78</kbd>
 
-### Animal <kbd><table><tr>
-
+<table><tr>
   <td align="center"><a href="https://github.com/alpaca-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752315?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/ant-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70746215?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/bat-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783585?s=200&v=4" width="50" /></a></td>
@@ -309,12 +309,11 @@ UPDATE_LIFE_TABLE
   <td width="160" align="center">whale<br />鲸鱼</td>
   <td width="160" align="center">wolf<br />狼</td>
   <td width="160" align="center">zebra<br />斑马</td>
-</tr></table></kbd>
+</tr></table>
 
-UPDATE_ANIMAL_TABLE
+### Food <kbd>22</kbd>
 
-### Food <kbd><table><tr>
-
+<table><tr>
   <td align="center"><a href="https://github.com/acorn-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277347?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/apple-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603505?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/banana-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72604097?s=200&v=4" width="50" /></a></td>
@@ -374,12 +373,11 @@ UPDATE_ANIMAL_TABLE
   <td width="160" align="center">watermelon<br />西瓜</td>
   <td width="160" align="center"></td>
   <td width="160" align="center"></td>
-</tr></table></kbd>
+</tr></table>
 
-UPDATE_FOOD_TABLE
+### Natural <kbd>11</kbd>
 
-### Natural <kbd><table><tr>
-
+<table><tr>
   <td align="center"><a href="https://github.com/bamboo-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75229454?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/earth-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72246621?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/flower-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603073?s=200&v=4" width="50" /></a></td>
@@ -409,9 +407,7 @@ UPDATE_FOOD_TABLE
   <td width="160" align="center">sun<br />太阳</td>
   <td width="160" align="center">tree<br />树林</td>
   <td width="160" align="center"></td>
-</tr></table></kbd>
-
-UPDATE_NATURAL_TABLE
+</tr></table>
 
 <!-- Created by update-readme.js. -->
 <!-- END -->
