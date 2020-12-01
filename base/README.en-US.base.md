@@ -10,33 +10,27 @@ People distribution charts: https://zoo-js.github.io/zoo-charts/
 
 If your favorite pet is not in the following list, please raise it in the [issue][issue-new].
 
-## ✨ Cute list ( UPDATE_README_NUMBER )
-
-- [Technology](#Technology)
-- [Life](#Life)
-- [Animal](#Animal)
-- [Food](#Food)
-- [Natural](#Natural)
+## ✨ Cute list <kbd>UPDATE_README_NUMBER</kbd>
 
 <!-- START -->
 
-### Technology ( UPDATE_TECHNOLOGY_NUMBER )
+### Technology <kbd>UPDATE_TECHNOLOGY_NUMBER</kbd>
 
 UPDATE_TECHNOLOGY_TABLE
 
-### Life ( UPDATE_LIFE_NUMBER )
+### Life <kbd>UPDATE_LIFE_NUMBER</kbd>
 
 UPDATE_LIFE_TABLE
 
-### Animal ( UPDATE_ANIMAL_NUMBER )
+### Animal <kbd>UPDATE_ANIMAL_NUMBER</kbd>
 
 UPDATE_ANIMAL_TABLE
 
-### Food ( UPDATE_FOOD_NUMBER )
+### Food <kbd>UPDATE_FOOD_NUMBER</kbd>
 
 UPDATE_FOOD_TABLE
 
-### Natural ( UPDATE_NATURAL_NUMBER )
+### Natural <kbd>UPDATE_NATURAL_NUMBER</kbd>
 
 UPDATE_NATURAL_TABLE
 

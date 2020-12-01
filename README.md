@@ -10,17 +10,11 @@
 
 若您心仪的萌物没在以下列表内，欢迎在 [issue][issue-new] 中提出。
 
-## ✨ 萌物列表 ( 142 )
-
-- [技术](#技术)
-- [生活](#生活)
-- [动物](#动物)
-- [食物](#食物)
-- [自然](#自然)
+## ✨ 萌物列表 <kbd>142</kbd>
 
 <!-- START -->
 
-### 技术 ( 9 )
+### 技术 <kbd>9</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/bug-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403263?s=200&v=4" width="50" /></a></td>
@@ -54,7 +48,7 @@
   <td width="160" align="center"></td>
 </tr></table>
 
-### 生活 ( 22 )
+### 生活 <kbd>22</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/eve-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277666?s=200&v=4" width="50" /></a></td>
@@ -118,7 +112,7 @@
   <td width="160" align="center"></td>
 </tr></table>
 
-### 动物 ( 78 )
+### 动物 <kbd>78</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/alpaca-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752315?s=200&v=4" width="50" /></a></td>
@@ -317,7 +311,7 @@
   <td width="160" align="center">zebra<br />斑马</td>
 </tr></table>
 
-### 食物 ( 22 )
+### 食物 <kbd>22</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/acorn-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277347?s=200&v=4" width="50" /></a></td>
@@ -381,7 +375,7 @@
   <td width="160" align="center"></td>
 </tr></table>
 
-### 自然 ( 11 )
+### 自然 <kbd>11</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/bamboo-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75229454?s=200&v=4" width="50" /></a></td>

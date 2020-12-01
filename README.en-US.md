@@ -10,17 +10,11 @@ People distribution charts: https://zoo-js.github.io/zoo-charts/
 
 If your favorite pet is not in the following list, please raise it in the [issue][issue-new].
 
-## ✨ Cute list ( 142 )
-
-- [Technology](#Technology)
-- [Life](#Life)
-- [Animal](#Animal)
-- [Food](#Food)
-- [Natural](#Natural)
+## ✨ Cute list <kbd>142</kbd>
 
 <!-- START -->
 
-### Technology ( 9 )
+### Technology <kbd>9</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/bug-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403263?s=200&v=4" width="50" /></a></td>
@@ -54,7 +48,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td width="160" align="center"></td>
 </tr></table>
 
-### Life ( 22 )
+### Life <kbd>22</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/eve-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277666?s=200&v=4" width="50" /></a></td>
@@ -118,7 +112,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td width="160" align="center"></td>
 </tr></table>
 
-### Animal ( 78 )
+### Animal <kbd>78</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/alpaca-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752315?s=200&v=4" width="50" /></a></td>
@@ -317,7 +311,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td width="160" align="center">zebra<br />斑马</td>
 </tr></table>
 
-### Food ( 22 )
+### Food <kbd>22</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/acorn-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277347?s=200&v=4" width="50" /></a></td>
@@ -381,7 +375,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td width="160" align="center"></td>
 </tr></table>
 
-### Natural ( 11 )
+### Natural <kbd>11</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/bamboo-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75229454?s=200&v=4" width="50" /></a></td>

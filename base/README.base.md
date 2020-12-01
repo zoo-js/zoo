@@ -10,33 +10,27 @@
 
 若您心仪的萌物没在以下列表内，欢迎在 [issue][issue-new] 中提出。
 
-## ✨ 萌物列表 ( UPDATE_README_NUMBER )
-
-- [技术](#技术)
-- [生活](#生活)
-- [动物](#动物)
-- [食物](#食物)
-- [自然](#自然)
+## ✨ 萌物列表 <kbd>UPDATE_README_NUMBER</kbd>
 
 <!-- START -->
 
-### 技术 ( UPDATE_TECHNOLOGY_NUMBER )
+### 技术 <kbd>UPDATE_TECHNOLOGY_NUMBER</kbd>
 
 UPDATE_TECHNOLOGY_TABLE
 
-### 生活 ( UPDATE_LIFE_NUMBER )
+### 生活 <kbd>UPDATE_LIFE_NUMBER</kbd>
 
 UPDATE_LIFE_TABLE
 
-### 动物 ( UPDATE_ANIMAL_NUMBER )
+### 动物 <kbd>UPDATE_ANIMAL_NUMBER</kbd>
 
 UPDATE_ANIMAL_TABLE
 
-### 食物 ( UPDATE_FOOD_NUMBER )
+### 食物 <kbd>UPDATE_FOOD_NUMBER</kbd>
 
 UPDATE_FOOD_TABLE
 
-### 自然 ( UPDATE_NATURAL_NUMBER )
+### 自然 <kbd>UPDATE_NATURAL_NUMBER</kbd>
 
 UPDATE_NATURAL_TABLE
 
