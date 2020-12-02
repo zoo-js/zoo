@@ -10,104 +10,134 @@
 
 若您心仪的萌物没在以下列表内，欢迎在 [issue][issue-new] 中提出。
 
-## ✨ 萌物列表 <kbd>142</kbd>
+## ✨ 萌物列表 <kbd>155</kbd>
 
 <!-- START -->
 
-### 技术 <kbd>9</kbd>
+### 技术 <kbd>10</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/bug-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403263?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/pixel-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74531596?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/mac-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403452?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/iphone-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74405634?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/ipad-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74405647?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/html-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74940766?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/js-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909967?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
   <td width="160" align="center">bug<br />bug</td>
+  <td width="160" align="center">pixel<br />像素</td>
   <td width="160" align="center">mac<br />Mac</td>
   <td width="160" align="center">iphone<br />爱疯</td>
   <td width="160" align="center">ipad<br />iPad</td>
   <td width="160" align="center">html<br />HTML</td>
-  <td width="160" align="center">js<br />JS</td>
 </tr><tr>
+  <td align="center"><a href="https://github.com/js-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909967?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/css-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74939759?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/love-vue" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74940734?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/LoveReact" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74940835?s=200&v=4" width="50" /></a></td>
   <td align="center"></td>
   <td align="center"></td>
-  <td align="center"></td>
 </tr>
 <tr>
+  <td width="160" align="center">js<br />JS</td>
   <td width="160" align="center">css<br />CSS</td>
   <td width="160" align="center">vue<br />Vue</td>
   <td width="160" align="center">react<br />React</td>
   <td width="160" align="center"></td>
   <td width="160" align="center"></td>
-  <td width="160" align="center"></td>
 </tr></table>
 
-### 生活 <kbd>22</kbd>
+### 生活 <kbd>33</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/eve-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277666?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/walle-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277694?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/bot-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767385?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/awesome-ufo" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767474?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/awesome-airplane" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75106065?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/awesome-car" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75229308?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/awesome-bike" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75349299?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/awesome-moto" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75349401?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
   <td width="160" align="center">eve<br />伊娃</td>
   <td width="160" align="center">walle<br />瓦力</td>
   <td width="160" align="center">bot<br />机器人</td>
   <td width="160" align="center">ufo<br />UFO</td>
-  <td width="160" align="center">airplane<br />飞机</td>
-  <td width="160" align="center">car<br />汽车</td>
+  <td width="160" align="center">bike<br />自行车</td>
+  <td width="160" align="center">moto<br />摩托</td>
 </tr><tr>
+  <td align="center"><a href="https://github.com/awesome-car" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75229308?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/awesome-train" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75349718?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/awesome-cruise" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75229393?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/awesome-airplane" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75106065?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/awesome-rocket" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75229421?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/awesome-satellite" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75346563?s=200&v=4" width="50" /></a></td>
+</tr>
+<tr>
+  <td width="160" align="center">car<br />汽车</td>
+  <td width="160" align="center">train<br />火车</td>
+  <td width="160" align="center">cruise<br />游轮</td>
+  <td width="160" align="center">airplane<br />飞机</td>
+  <td width="160" align="center">rocket<br />火箭</td>
+  <td width="160" align="center">satellite<br />卫星</td>
+</tr><tr>
   <td align="center"><a href="https://github.com/money-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74278308?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/paper-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74776672?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/mermaid-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74278228?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/angel-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403136?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/devil-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403233?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/mario-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74766766?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
-  <td width="160" align="center">cruise<br />游轮</td>
-  <td width="160" align="center">rocket<br />火箭</td>
   <td width="160" align="center">money<br />钱袋</td>
   <td width="160" align="center">paper<br />卷纸</td>
   <td width="160" align="center">mermaid<br />美人鱼</td>
   <td width="160" align="center">angel<br />天使</td>
+  <td width="160" align="center">devil<br />恶魔</td>
+  <td width="160" align="center">mario<br />马里奥</td>
 </tr><tr>
-  <td align="center"><a href="https://github.com/devil-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403233?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/mario-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74766766?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/hat-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74766840?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/guitar-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767123?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/heart-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603614?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/family-lovey" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909267?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/dad-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909002?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/mom-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909025?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
-  <td width="160" align="center">devil<br />恶魔</td>
-  <td width="160" align="center">mario<br />马里奥</td>
   <td width="160" align="center">hat<br />草帽</td>
   <td width="160" align="center">guitar<br />吉他</td>
   <td width="160" align="center">heart<br />心</td>
   <td width="160" align="center">family<br />家</td>
+  <td width="160" align="center">dad<br />爸爸</td>
+  <td width="160" align="center">mom<br />妈妈</td>
 </tr><tr>
-  <td align="center"><a href="https://github.com/dad-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909002?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/mom-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909025?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/son-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909162?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/daughter-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75346041?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/boy-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75346019?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/girl-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909206?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/football-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75347290?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/basketball-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75347301?s=200&v=4" width="50" /></a></td>
+</tr>
+<tr>
+  <td width="160" align="center">son<br />儿子</td>
+  <td width="160" align="center">daughter<br />女儿</td>
+  <td width="160" align="center">boy<br />男孩</td>
+  <td width="160" align="center">girl<br />女孩</td>
+  <td width="160" align="center">football<br />足球</td>
+  <td width="160" align="center">basketball<br />篮球</td>
+</tr><tr>
+  <td align="center"><a href="https://github.com/pingpong-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75347472?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/badminton-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75347679?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/tennis-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75347744?s=200&v=4" width="50" /></a></td>
+  <td align="center"></td>
   <td align="center"></td>
   <td align="center"></td>
 </tr>
 <tr>
-  <td width="160" align="center">dad<br />爸爸</td>
-  <td width="160" align="center">mom<br />妈妈</td>
-  <td width="160" align="center">son<br />儿子</td>
-  <td width="160" align="center">girl<br />女儿</td>
+  <td width="160" align="center">pingpong<br />乒乓球</td>
+  <td width="160" align="center">badminton<br />羽毛球</td>
+  <td width="160" align="center">tennis<br />网球</td>
+  <td width="160" align="center"></td>
   <td width="160" align="center"></td>
   <td width="160" align="center"></td>
 </tr></table>
@@ -375,38 +405,38 @@
   <td width="160" align="center"></td>
 </tr></table>
 
-### 自然 <kbd>11</kbd>
+### 自然 <kbd>12</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/bamboo-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75229454?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/one-cloud" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75346941?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/earth-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72246621?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/flower-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603073?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/grass-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75229564?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/moon-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72177911?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/rainbow-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74278426?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
   <td width="160" align="center">bamboo<br />竹子</td>
+  <td width="160" align="center">cloud<br />云</td>
   <td width="160" align="center">earth<br />地球</td>
   <td width="160" align="center">flower<br />花</td>
   <td width="160" align="center">grass<br />草地</td>
   <td width="160" align="center">moon<br />月亮</td>
-  <td width="160" align="center">rainbow<br />彩虹</td>
 </tr><tr>
+  <td align="center"><a href="https://github.com/rainbow-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74278426?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/rose-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74278553?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/sakura-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74705912?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/star-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72178015?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/awesome-sun" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72177992?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/tree-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75229551?s=200&v=4" width="50" /></a></td>
-  <td align="center"></td>
 </tr>
 <tr>
+  <td width="160" align="center">rainbow<br />彩虹</td>
   <td width="160" align="center">rose<br />玫瑰</td>
   <td width="160" align="center">sakura<br />樱花</td>
   <td width="160" align="center">star<br />星星</td>
   <td width="160" align="center">sun<br />太阳</td>
   <td width="160" align="center">tree<br />树林</td>
-  <td width="160" align="center"></td>
 </tr></table>
 
 <!-- Created by update-readme.js. -->
