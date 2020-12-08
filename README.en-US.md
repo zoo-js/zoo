@@ -10,7 +10,7 @@ People distribution charts: https://zoo-js.github.io/zoo-charts/
 
 If your favorite pet is not in the following list, please raise it in the [issue][issue-new].
 
-## ✨ Cute list <kbd>155</kbd>
+## ✨ Cute list <kbd>162</kbd>
 
 <!-- START -->
 
@@ -48,7 +48,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td width="160" align="center"></td>
 </tr></table>
 
-### Life <kbd>33</kbd>
+### Life <kbd>35</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/eve-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277666?s=200&v=4" width="50" /></a></td>
@@ -97,52 +97,52 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td width="160" align="center">mario<br />马里奥</td>
 </tr><tr>
   <td align="center"><a href="https://github.com/hat-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74766840?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/balloon-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75668364?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/guitar-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767123?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/awesome-radio" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75668924?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/heart-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603614?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/family-lovey" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909267?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/dad-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909002?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/mom-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909025?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
   <td width="160" align="center">hat<br />草帽</td>
+  <td width="160" align="center">balloon<br />气球</td>
   <td width="160" align="center">guitar<br />吉他</td>
+  <td width="160" align="center">radio<br />收音机</td>
   <td width="160" align="center">heart<br />心</td>
   <td width="160" align="center">family<br />家</td>
-  <td width="160" align="center">dad<br />爸爸</td>
-  <td width="160" align="center">mom<br />妈妈</td>
 </tr><tr>
+  <td align="center"><a href="https://github.com/dad-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909002?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/mom-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909025?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/son-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909162?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/daughter-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75346041?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/boy-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75346019?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/girl-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909206?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/football-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75347290?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/basketball-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75347301?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
+  <td width="160" align="center">dad<br />爸爸</td>
+  <td width="160" align="center">mom<br />妈妈</td>
   <td width="160" align="center">son<br />儿子</td>
   <td width="160" align="center">daughter<br />女儿</td>
   <td width="160" align="center">boy<br />男孩</td>
   <td width="160" align="center">girl<br />女孩</td>
-  <td width="160" align="center">football<br />足球</td>
-  <td width="160" align="center">basketball<br />篮球</td>
 </tr><tr>
+  <td align="center"><a href="https://github.com/football-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75347290?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/basketball-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75347301?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/pingpong-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75347472?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/badminton-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75347679?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/tennis-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75347744?s=200&v=4" width="50" /></a></td>
   <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"></td>
 </tr>
 <tr>
+  <td width="160" align="center">football<br />足球</td>
+  <td width="160" align="center">basketball<br />篮球</td>
   <td width="160" align="center">pingpong<br />乒乓球</td>
   <td width="160" align="center">badminton<br />羽毛球</td>
   <td width="160" align="center">tennis<br />网球</td>
   <td width="160" align="center"></td>
-  <td width="160" align="center"></td>
-  <td width="160" align="center"></td>
 </tr></table>
 
-### Animal <kbd>78</kbd>
+### Animal <kbd>81</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/alpaca-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752315?s=200&v=4" width="50" /></a></td>
@@ -237,111 +237,126 @@ If your favorite pet is not in the following list, please raise it in the [issue
 </tr><tr>
   <td align="center"><a href="https://github.com/horse-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72602791?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/jellyfish-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767256?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/kangaroo-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75668732?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/kitten-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70757890?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/koala-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70750089?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/lark-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70753047?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/lion-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72246448?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
   <td width="160" align="center">horse<br />马</td>
   <td width="160" align="center">jellyfish<br />海蜇</td>
+  <td width="160" align="center">kangaroo<br />袋鼠</td>
   <td width="160" align="center">kitten<br />小猫</td>
   <td width="160" align="center">koala<br />考拉</td>
   <td width="160" align="center">lark<br />云雀</td>
-  <td width="160" align="center">lion<br />狮子</td>
 </tr><tr>
+  <td align="center"><a href="https://github.com/lion-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72246448?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/monkey-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70750531?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/mouse-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752757?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/octopus-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767200?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/orangutan-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70757694?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/otter-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70784646?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/owl-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752100?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
+  <td width="160" align="center">lion<br />狮子</td>
   <td width="160" align="center">monkey<br />猴子</td>
   <td width="160" align="center">mouse<br />老鼠</td>
   <td width="160" align="center">octopus<br />章鱼</td>
   <td width="160" align="center">orangutan<br />猩猩</td>
   <td width="160" align="center">otter<br />水獭</td>
-  <td width="160" align="center">owl<br />猫头鹰</td>
 </tr><tr>
+  <td align="center"><a href="https://github.com/owl-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752100?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/panda-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72590558?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/parrot-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752245?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/peacock-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70757494?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/pelican-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75668824?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/penguin-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783043?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/pig-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70749293?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/pigeon-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783705?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
+  <td width="160" align="center">owl<br />猫头鹰</td>
   <td width="160" align="center">panda<br />熊猫</td>
   <td width="160" align="center">parrot<br />鹦鹉</td>
   <td width="160" align="center">peacock<br />孔雀</td>
+  <td width="160" align="center">pelican<br />鹈鹕</td>
   <td width="160" align="center">penguin<br />企鹅</td>
-  <td width="160" align="center">pig<br />猪</td>
-  <td width="160" align="center">pigeon<br />鸽子</td>
 </tr><tr>
+  <td align="center"><a href="https://github.com/pig-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70749293?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/pigeon-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783705?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/pikachu-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783107?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/polarbear-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75253783?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/rabbit-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783302?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/raccoon-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403310?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/reindeer-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70757664?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/rhinoceros-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783273?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
+  <td width="160" align="center">pig<br />猪</td>
+  <td width="160" align="center">pigeon<br />鸽子</td>
   <td width="160" align="center">pikachu<br />皮卡丘</td>
   <td width="160" align="center">polarbear<br />北极熊</td>
   <td width="160" align="center">rabbit<br />兔子</td>
   <td width="160" align="center">raccoon<br />浣熊</td>
-  <td width="160" align="center">reindeer<br />驯鹿</td>
-  <td width="160" align="center">rhinoceros<br />犀牛</td>
 </tr><tr>
+  <td align="center"><a href="https://github.com/reindeer-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70757664?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/rhinoceros-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783273?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/seal-lol" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75668689?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/shark-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783812?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/sheep-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70750007?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/shrimp-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74776209?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/sloth-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403343?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/snail-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70751299?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/snake-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70750638?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
+  <td width="160" align="center">reindeer<br />驯鹿</td>
+  <td width="160" align="center">rhinoceros<br />犀牛</td>
+  <td width="160" align="center">seal<br />海豹</td>
   <td width="160" align="center">shark<br />鲨鱼</td>
   <td width="160" align="center">sheep<br />羊</td>
   <td width="160" align="center">shrimp<br />虾</td>
-  <td width="160" align="center">sloth<br />树獭</td>
-  <td width="160" align="center">snail<br />蜗牛</td>
-  <td width="160" align="center">snake<br />蛇</td>
 </tr><tr>
+  <td align="center"><a href="https://github.com/sloth-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403343?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/snail-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70751299?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/snake-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70750638?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/spider-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72592115?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/squirrel-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783453?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/starfish-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74766927?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/swallow-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752630?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/swan-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70757521?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/tiger-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752665?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
+  <td width="160" align="center">sloth<br />树獭</td>
+  <td width="160" align="center">snail<br />蜗牛</td>
+  <td width="160" align="center">snake<br />蛇</td>
   <td width="160" align="center">spider<br />蜘蛛</td>
   <td width="160" align="center">squirrel<br />松鼠</td>
   <td width="160" align="center">starfish<br />海星</td>
-  <td width="160" align="center">swallow<br />燕子</td>
-  <td width="160" align="center">swan<br />天鹅</td>
-  <td width="160" align="center">tiger<br />老虎</td>
 </tr><tr>
+  <td align="center"><a href="https://github.com/swallow-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752630?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/swan-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70757521?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/tiger-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752665?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/tortoise-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783027?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/totoro-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783073?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/unicorn-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783423?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/whale-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752793?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/wolf-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70870347?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/zebra-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752158?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
+  <td width="160" align="center">swallow<br />燕子</td>
+  <td width="160" align="center">swan<br />天鹅</td>
+  <td width="160" align="center">tiger<br />老虎</td>
   <td width="160" align="center">tortoise<br />乌龟</td>
   <td width="160" align="center">totoro<br />龙猫</td>
   <td width="160" align="center">unicorn<br />独角兽</td>
+</tr><tr>
+  <td align="center"><a href="https://github.com/whale-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752793?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/wolf-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70870347?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/zebra-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752158?s=200&v=4" width="50" /></a></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"></td>
+</tr>
+<tr>
   <td width="160" align="center">whale<br />鲸鱼</td>
   <td width="160" align="center">wolf<br />狼</td>
   <td width="160" align="center">zebra<br />斑马</td>
+  <td width="160" align="center"></td>
+  <td width="160" align="center"></td>
+  <td width="160" align="center"></td>
 </tr></table>
 
-### Food <kbd>22</kbd>
+### Food <kbd>24</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/acorn-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277347?s=200&v=4" width="50" /></a></td>
@@ -359,50 +374,50 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td width="160" align="center">carrot<br />胡萝卜</td>
   <td width="160" align="center">cherry<br />樱桃</td>
 </tr><tr>
+  <td align="center"><a href="https://github.com/cocktail-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75668876?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/coffee-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603566?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/coke-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403781?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/cookie-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767618?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/corn-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277443?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/egg-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767710?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/grape-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72604170?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
+  <td width="160" align="center">cocktail<br />鸡尾酒</td>
   <td width="160" align="center">coffee<br />咖啡</td>
   <td width="160" align="center">coke<br />可乐</td>
   <td width="160" align="center">cookie<br />饼干</td>
   <td width="160" align="center">corn<br />玉米</td>
   <td width="160" align="center">egg<br />鸡蛋</td>
-  <td width="160" align="center">grape<br />葡萄</td>
 </tr><tr>
+  <td align="center"><a href="https://github.com/grape-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72604170?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/hamburger-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403760?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/ice-cream-lol" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75668531?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/milk-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603746?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/orange-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767057?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/peach-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74706015?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/pineapple-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767007?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/pizza-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767582?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
+  <td width="160" align="center">grape<br />葡萄</td>
   <td width="160" align="center">hamburger<br />汉堡包</td>
+  <td width="160" align="center">ice cream<br />冰淇淋</td>
   <td width="160" align="center">milk<br />牛奶</td>
   <td width="160" align="center">orange<br />橙子</td>
   <td width="160" align="center">peach<br />桃子</td>
-  <td width="160" align="center">pineapple<br />菠萝</td>
-  <td width="160" align="center">pizza<br />披萨</td>
 </tr><tr>
+  <td align="center"><a href="https://github.com/pineapple-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767007?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/pizza-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767582?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/popsicle-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767080?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/strawberry-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72604011?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/tea-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603690?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/watermelon-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603976?s=200&v=4" width="50" /></a></td>
-  <td align="center"></td>
-  <td align="center"></td>
 </tr>
 <tr>
+  <td width="160" align="center">pineapple<br />菠萝</td>
+  <td width="160" align="center">pizza<br />披萨</td>
   <td width="160" align="center">popsicle<br />冰棒</td>
   <td width="160" align="center">strawberry<br />草莓</td>
   <td width="160" align="center">tea<br />茶</td>
   <td width="160" align="center">watermelon<br />西瓜</td>
-  <td width="160" align="center"></td>
-  <td width="160" align="center"></td>
 </tr></table>
 
 ### Natural <kbd>12</kbd>
