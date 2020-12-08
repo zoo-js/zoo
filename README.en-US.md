@@ -10,7 +10,7 @@ People distribution charts: https://zoo-js.github.io/zoo-charts/
 
 If your favorite pet is not in the following list, please raise it in the [issue][issue-new].
 
-## ✨ Cute list <kbd>162</kbd>
+## ✨ Cute list <kbd>163</kbd>
 
 <!-- START -->
 
@@ -83,9 +83,9 @@ If your favorite pet is not in the following list, please raise it in the [issue
 </tr><tr>
   <td align="center"><a href="https://github.com/money-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74278308?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/paper-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74776672?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/mermaid-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74278228?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/angel-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403136?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/devil-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403233?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/mermaid-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74278228?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/angel-cool" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403136?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/devil-cool" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403233?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/mario-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74766766?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
@@ -101,7 +101,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td align="center"><a href="https://github.com/guitar-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767123?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/awesome-radio" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75668924?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/heart-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603614?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/family-lovey" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909267?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/family-loves" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909267?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
   <td width="160" align="center">hat<br />草帽</td>
@@ -175,7 +175,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td width="160" align="center">cat<br />猫</td>
   <td width="160" align="center">cattle<br />牛</td>
 </tr><tr>
-  <td align="center"><a href="https://github.com/chameleon-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74778605?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/chameleon-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74778605?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/chick-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783479?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/cicada-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70757758?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/clownfish-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783502?s=200&v=4" width="50" /></a></td>
@@ -193,7 +193,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td align="center"><a href="https://github.com/dinosaur-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752846?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/dog-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70746150?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/dolphin-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783522?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/dragon-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783905?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/dragon-cool" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783905?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/duck-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70751028?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/ducky-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74776571?s=200&v=4" width="50" /></a></td>
 </tr>
@@ -222,7 +222,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
 </tr><tr>
   <td align="center"><a href="https://github.com/goldfish-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70762676?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/gull-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752962?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/hamster-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403513?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/hamster-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403513?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/hedgehog-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70757725?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/hippo-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752881?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/honeybee-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783684?s=200&v=4" width="50" /></a></td>
@@ -235,7 +235,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td width="160" align="center">hippo<br />河马</td>
   <td width="160" align="center">honeybee<br />小蜜蜂</td>
 </tr><tr>
-  <td align="center"><a href="https://github.com/horse-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72602791?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/horse-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72602791?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/jellyfish-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767256?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/kangaroo-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75668732?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/kitten-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70757890?s=200&v=4" width="50" /></a></td>
@@ -255,7 +255,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td align="center"><a href="https://github.com/mouse-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752757?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/octopus-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767200?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/orangutan-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70757694?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/otter-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70784646?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/otter-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70784646?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
   <td width="160" align="center">lion<br />狮子</td>
@@ -266,7 +266,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td width="160" align="center">otter<br />水獭</td>
 </tr><tr>
   <td align="center"><a href="https://github.com/owl-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752100?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/panda-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72590558?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/cute-panda" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72590558?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/parrot-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752245?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/peacock-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70757494?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/pelican-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75668824?s=200&v=4" width="50" /></a></td>
@@ -285,7 +285,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td align="center"><a href="https://github.com/pikachu-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783107?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/polarbear-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75253783?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/rabbit-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783302?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/raccoon-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403310?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/raccoon-cool" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403310?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
   <td width="160" align="center">pig<br />猪</td>
@@ -297,8 +297,8 @@ If your favorite pet is not in the following list, please raise it in the [issue
 </tr><tr>
   <td align="center"><a href="https://github.com/reindeer-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70757664?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/rhinoceros-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783273?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/seal-lol" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75668689?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/shark-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783812?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/seal-cool" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75668689?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/shark-cool" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783812?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/sheep-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70750007?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/shrimp-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74776209?s=200&v=4" width="50" /></a></td>
 </tr>
@@ -313,9 +313,9 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td align="center"><a href="https://github.com/sloth-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403343?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/snail-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70751299?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/snake-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70750638?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/spider-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72592115?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/spider-cool" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72592115?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/squirrel-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783453?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/starfish-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74766927?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/starfish-cool" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74766927?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
   <td width="160" align="center">sloth<br />树獭</td>
@@ -356,7 +356,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td width="160" align="center"></td>
 </tr></table>
 
-### Food <kbd>24</kbd>
+### Food <kbd>25</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/acorn-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277347?s=200&v=4" width="50" /></a></td>
@@ -391,33 +391,48 @@ If your favorite pet is not in the following list, please raise it in the [issue
 </tr><tr>
   <td align="center"><a href="https://github.com/grape-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72604170?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/hamburger-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403760?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/ice-cream-lol" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75668531?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/ice-cream-cool" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75668531?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/latte-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75675837?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/milk-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603746?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/orange-ts" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767057?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/peach-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74706015?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/orange-cool" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767057?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
   <td width="160" align="center">grape<br />葡萄</td>
   <td width="160" align="center">hamburger<br />汉堡包</td>
   <td width="160" align="center">ice cream<br />冰淇淋</td>
+  <td width="160" align="center">latte<br />拿铁</td>
   <td width="160" align="center">milk<br />牛奶</td>
   <td width="160" align="center">orange<br />橙子</td>
-  <td width="160" align="center">peach<br />桃子</td>
 </tr><tr>
+  <td align="center"><a href="https://github.com/peach-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74706015?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/pineapple-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767007?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/pizza-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767582?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/popsicle-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767080?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/strawberry-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72604011?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/tea-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603690?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/watermelon-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603976?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
+  <td width="160" align="center">peach<br />桃子</td>
   <td width="160" align="center">pineapple<br />菠萝</td>
   <td width="160" align="center">pizza<br />披萨</td>
   <td width="160" align="center">popsicle<br />冰棒</td>
   <td width="160" align="center">strawberry<br />草莓</td>
   <td width="160" align="center">tea<br />茶</td>
+</tr><tr>
+  <td align="center"><a href="https://github.com/watermelon-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603976?s=200&v=4" width="50" /></a></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"></td>
+  <td align="center"></td>
+</tr>
+<tr>
   <td width="160" align="center">watermelon<br />西瓜</td>
+  <td width="160" align="center"></td>
+  <td width="160" align="center"></td>
+  <td width="160" align="center"></td>
+  <td width="160" align="center"></td>
+  <td width="160" align="center"></td>
 </tr></table>
 
 ### Natural <kbd>12</kbd>
@@ -442,7 +457,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td align="center"><a href="https://github.com/rose-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74278553?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/sakura-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74705912?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/star-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72178015?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/awesome-sun" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72177992?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/sun-cool" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72177992?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/tree-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75229551?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
