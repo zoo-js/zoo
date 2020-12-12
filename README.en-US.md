@@ -10,11 +10,11 @@ People distribution charts: https://zoo-js.github.io/zoo-charts/
 
 If your favorite pet is not in the following list, please raise it in the [issue][issue-new].
 
-## ✨ Cute list <kbd>163</kbd>
+## ✨ Cute list <kbd>165</kbd>
 
 <!-- START -->
 
-### Technology <kbd>10</kbd>
+### Technology <kbd>12</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/bug-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403263?s=200&v=4" width="50" /></a></td>
@@ -34,18 +34,18 @@ If your favorite pet is not in the following list, please raise it in the [issue
 </tr><tr>
   <td align="center"><a href="https://github.com/js-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909967?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/css-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74939759?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/c-cool" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75880060?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/love-vue" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74940734?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/LoveReact" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74940835?s=200&v=4" width="50" /></a></td>
-  <td align="center"></td>
-  <td align="center"></td>
+  <td align="center"><a href="https://github.com/golang-cool" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75879141?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
   <td width="160" align="center">js<br />JS</td>
   <td width="160" align="center">css<br />CSS</td>
+  <td width="160" align="center">c<br />C</td>
   <td width="160" align="center">vue<br />Vue</td>
   <td width="160" align="center">react<br />React</td>
-  <td width="160" align="center"></td>
-  <td width="160" align="center"></td>
+  <td width="160" align="center">go<br />go</td>
 </tr></table>
 
 ### Life <kbd>35</kbd>
