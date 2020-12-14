@@ -9,7 +9,7 @@ const {
   ISSUE_NUMBER,
 } = process.env;
 const issueAuth = ISSUE_AUTH || 'xrkffgg';
-const issueNumber = ISSUE_NUMBER || 48;
+const issueNumber = ISSUE_NUMBER || 149;
 
 const issueBody = `🎉 Hi, @${issueAuth}. The invitation has been sent to the specified email address, please check! This issue will be closed. If you have any questions, please comment below.
 
@@ -47,6 +47,8 @@ async function main() {
 
     if (val.startsWith('GitHub Email:')) {
       email = val.replace('GitHub Email: ', '');
+    } else {
+      console.log('Error: get email failed!')
     }
     if (email && val.startsWith('1.') && val.length > 3) {
       pet1 = val.replace('1. ', '');
@@ -69,7 +71,7 @@ async function main() {
   const emailExp = new RegExp('^([a-zA-Z0-9]+[_|\\_|\\.]?)*[a-zA-Z0-9]+@([a-zA-Z0-9]+[_|\\_|\\.]?)*[a-zA-Z0-9]+\\.[a-zA-Z]{2,3}$', '');
 
   if ((!email || !emailExp.test(email)) || (!pet1 && !pet2 && !pet3 && !pet4 && !pet5)) {
-    core.info('empty');
+    core.info('Error: check auto invited failed!');
     await octokit.issues.createComment({
       owner,
       repo,
@@ -118,12 +120,17 @@ async function main() {
 async function invitePeople(email, pet) {
   let org = getPetFullName(pet);
   if (org) {
-    await octokit.orgs.createInvitation({
-      org,
-      email,
-      role: 'direct_member'
-    });
-    core.info(`Auto invited ${org}`);
+    try {
+      await octokit.orgs.createInvitation({
+        org,
+        email,
+        role: 'direct_member'
+      });
+      core.info(`Auto invited ${org}`);
+    } catch (err) {
+      console.log(`Error: invite ${org} error!`);
+      console.log(err);
+    }
   } else {
     core.info(`Get ${pet} fullName error!`);
     return false;
@@ -145,6 +152,8 @@ function getPetFullName(name) {
 };
 
 (async () => {
+  console.log('Begin: auto invite start!');
   await getOrganizations();
   await main();
+  console.log('End: auto invited end!');
 })();
