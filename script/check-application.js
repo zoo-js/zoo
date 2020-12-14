@@ -40,7 +40,10 @@ async function main() {
 
     if (val.startsWith('GitHub Email:')) {
       email = val.replace('GitHub Email: ', '');
+    } else {
+      console.log('Error: email is empty!')
     }
+
     if (email && val.startsWith('1.') && val.length > 3) {
       pet1 = val.replace('1. ', '');
       if (pet1) {
@@ -107,6 +110,7 @@ async function main() {
   const emailExp = new RegExp('^([a-zA-Z0-9]+[_|\\_|\\.]?)*[a-zA-Z0-9]+@([a-zA-Z0-9]+[_|\\_|\\.]?)*[a-zA-Z0-9]+\\.[a-zA-Z]{2,3}$', '');
 
   if (!email || !emailExp.test(email) || (userNowApp === 0)) {
+    console.log(`Error: check application field!`);
     await octokit.issues.createComment({
       owner,
       repo,
@@ -121,6 +125,7 @@ async function main() {
       labels: ['need accurate info']
     });
   } else {
+    console.log(`Success: check application success!`);
     await octokit.issues.addLabels({
       owner,
       repo,
@@ -135,6 +140,7 @@ async function getOrganizations() {
     const res = await axios.get(url);
     organizations = res.data.data;
   } catch(err) {
+    console.log('Error: get org error!')
     console.log(err);
   }
 };
@@ -145,6 +151,8 @@ function getPetFullName(name) {
 };
 
 (async () => {
+  console.log(`Begin: check application begin!`);
   await getOrganizations();
   await main();
+  console.log(`End: check application end!`);
 })();
