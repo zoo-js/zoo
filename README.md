@@ -42,7 +42,7 @@
 <tr>
   <td width="160" align="center">js<br />JS</td>
   <td width="160" align="center">css<br />CSS</td>
-  <td width="160" align="center">c++<br />C++</td>
+  <td width="160" align="center">C#<br />C#</td>
   <td width="160" align="center">vue<br />Vue</td>
   <td width="160" align="center">react<br />React</td>
   <td width="160" align="center">go<br />go</td>
