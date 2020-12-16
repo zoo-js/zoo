@@ -10,7 +10,7 @@ People distribution charts: https://zoo-js.github.io/zoo-charts/
 
 If your favorite pet is not in the following list, please raise it in the [issue][issue-new].
 
-## ✨ Cute list <kbd>165</kbd>
+## ✨ Cute list <kbd>166</kbd>
 
 <!-- START -->
 
@@ -42,7 +42,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
 <tr>
   <td width="160" align="center">js<br />JS</td>
   <td width="160" align="center">css<br />CSS</td>
-  <td width="160" align="center">c<br />C</td>
+  <td width="160" align="center">c++<br />C++</td>
   <td width="160" align="center">vue<br />Vue</td>
   <td width="160" align="center">react<br />React</td>
   <td width="160" align="center">go<br />go</td>
@@ -356,7 +356,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td width="160" align="center"></td>
 </tr></table>
 
-### Food <kbd>25</kbd>
+### Food <kbd>26</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/acorn-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277347?s=200&v=4" width="50" /></a></td>
@@ -393,42 +393,42 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td align="center"><a href="https://github.com/hamburger-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74403760?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/ice-cream-cool" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75668531?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/latte-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75675837?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/lemon-cool" target="_blank"><img src="https://avatars0.githubusercontent.com/u/76079628?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/milk-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603746?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/orange-cool" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767057?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
   <td width="160" align="center">grape<br />葡萄</td>
   <td width="160" align="center">hamburger<br />汉堡包</td>
   <td width="160" align="center">ice cream<br />冰淇淋</td>
   <td width="160" align="center">latte<br />拿铁</td>
+  <td width="160" align="center">lemon<br />柠檬</td>
   <td width="160" align="center">milk<br />牛奶</td>
-  <td width="160" align="center">orange<br />橙子</td>
 </tr><tr>
+  <td align="center"><a href="https://github.com/orange-cool" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767057?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/peach-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74706015?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/pineapple-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767007?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/pizza-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767582?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/popsicle-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74767080?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/strawberry-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72604011?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/tea-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603690?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
+  <td width="160" align="center">orange<br />橙子</td>
   <td width="160" align="center">peach<br />桃子</td>
   <td width="160" align="center">pineapple<br />菠萝</td>
   <td width="160" align="center">pizza<br />披萨</td>
   <td width="160" align="center">popsicle<br />冰棒</td>
   <td width="160" align="center">strawberry<br />草莓</td>
-  <td width="160" align="center">tea<br />茶</td>
 </tr><tr>
+  <td align="center"><a href="https://github.com/tea-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603690?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/watermelon-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72603976?s=200&v=4" width="50" /></a></td>
-  <td align="center"></td>
   <td align="center"></td>
   <td align="center"></td>
   <td align="center"></td>
   <td align="center"></td>
 </tr>
 <tr>
+  <td width="160" align="center">tea<br />茶</td>
   <td width="160" align="center">watermelon<br />西瓜</td>
-  <td width="160" align="center"></td>
   <td width="160" align="center"></td>
   <td width="160" align="center"></td>
   <td width="160" align="center"></td>
