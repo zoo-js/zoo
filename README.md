@@ -10,7 +10,7 @@
 
 若您心仪的萌物没在以下列表内，欢迎在 [issue][issue-new] 中提出。
 
-## ✨ 萌物列表 <kbd>176</kbd>
+## ✨ 萌物列表 <kbd>207</kbd>
 
 <!-- START -->
 
@@ -63,7 +63,7 @@
   <td width="160" align="center"></td>
 </tr></table>
 
-### 生活 <kbd>43</kbd>
+### 生活 <kbd>74</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/eve-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74277666?s=200&v=4" width="50" /></a></td>
@@ -172,15 +172,90 @@
   <td width="160" align="center">badminton<br />羽毛球</td>
 </tr><tr>
   <td align="center"><a href="https://github.com/tennis-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75347744?s=200&v=4" width="50" /></a></td>
-  <td align="center"></td>
+  <td align="center"><a href="https://github.com/emoji-smile" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77186927?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-sad" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77186957?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77186973?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-sleeping" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77186988?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-sick" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187009?s=200&v=4" width="50" /></a></td>
+</tr>
+<tr>
+  <td width="160" align="center">tennis<br />网球</td>
+  <td width="160" align="center">smile emoji<br />微笑 emoji</td>
+  <td width="160" align="center">sad emoji<br />悲伤 emoji</td>
+  <td width="160" align="center">love emoji<br />爱 emoji</td>
+  <td width="160" align="center">sleeping emoji<br />熟睡 emoji</td>
+  <td width="160" align="center">sick emoji<br />生病 emoji</td>
+</tr><tr>
+  <td align="center"><a href="https://github.com/emoji-dizzy" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187061?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-thinking" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187093?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-angry" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187110?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-happy" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187119?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-cool" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187135?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-sweat" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187159?s=200&v=4" width="50" /></a></td>
+</tr>
+<tr>
+  <td width="160" align="center">dizzy emoji<br />晕 emoji</td>
+  <td width="160" align="center">thinking emoji<br />思考 emoji</td>
+  <td width="160" align="center">angry emoji<br />生气 emoji</td>
+  <td width="160" align="center">happy emoji<br />开心 emoji</td>
+  <td width="160" align="center">cool emoji<br />酷 emoji</td>
+  <td width="160" align="center">sweat emoji<br />流汗 emoji</td>
+</tr><tr>
+  <td align="center"><a href="https://github.com/emoji-scared" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187186?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-daze" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187207?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-joy" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187264?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-cry" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187287?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-wink" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187300?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-confused" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187312?s=200&v=4" width="50" /></a></td>
+</tr>
+<tr>
+  <td width="160" align="center">scared emoji<br />害怕 emoji</td>
+  <td width="160" align="center">daze emoji<br />呆滞 emoji</td>
+  <td width="160" align="center">joy emoji<br />哭笑 emoji</td>
+  <td width="160" align="center">cry emoji<br />哭 emoji</td>
+  <td width="160" align="center">wink emoji<br />眨眼 emoji</td>
+  <td width="160" align="center">confused emoji<br />困惑 emoji</td>
+</tr><tr>
+  <td align="center"><a href="https://github.com/emoji-surprised" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187338?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-unamused" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187357?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-injury" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187377?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-shocked" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187402?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-mask" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187411?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-tongue" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187429?s=200&v=4" width="50" /></a></td>
+</tr>
+<tr>
+  <td width="160" align="center">surprised emoji<br />惊讶 emoji</td>
+  <td width="160" align="center">unamused emoji<br />无趣 emoji</td>
+  <td width="160" align="center">injury emoji<br />受伤 emoji</td>
+  <td width="160" align="center">shocked emoji<br />震惊 emoji</td>
+  <td width="160" align="center">mask emoji<br />口罩 emoji</td>
+  <td width="160" align="center">tongue emoji<br />吐舌 emoji</td>
+</tr><tr>
+  <td align="center"><a href="https://github.com/emoji-tired" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187436?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-secret" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187461?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-smirking" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187474?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-clever" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187519?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-awkward" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187549?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-expressionless" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187561?s=200&v=4" width="50" /></a></td>
+</tr>
+<tr>
+  <td width="160" align="center">tired emoji<br />疲惫 emoji</td>
+  <td width="160" align="center">secret emoji<br />秘密 emoji</td>
+  <td width="160" align="center">smirking emoji<br />诡笑 emoji</td>
+  <td width="160" align="center">clever emoji<br />乖笑 emoji</td>
+  <td width="160" align="center">awkward emoji<br />尬笑 emoji</td>
+  <td width="160" align="center">expressionless emoji<br />无表情 emoji</td>
+</tr><tr>
+  <td align="center"><a href="https://github.com/emoji-mute" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77187595?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/emoji-kiss" target="_blank"><img src="https://avatars0.githubusercontent.com/u/77188037?s=200&v=4" width="50" /></a></td>
   <td align="center"></td>
   <td align="center"></td>
   <td align="center"></td>
   <td align="center"></td>
 </tr>
 <tr>
-  <td width="160" align="center">tennis<br />网球</td>
-  <td width="160" align="center"></td>
+  <td width="160" align="center">mute emoji<br />无语 emoji</td>
+  <td width="160" align="center">kiss emoji<br />亲亲 emoji</td>
   <td width="160" align="center"></td>
   <td width="160" align="center"></td>
   <td width="160" align="center"></td>
