@@ -47,9 +47,8 @@ async function main() {
 
     if (val.startsWith('GitHub Email:')) {
       email = val.replace('GitHub Email: ', '');
-    } else {
-      console.log('Error: get email failed!')
-    }
+      console.log(`Get: email is ${email}!`);
+    } 
     if (email && val.startsWith('1.') && val.length > 3) {
       pet1 = val.replace('1. ', '');
     }
