@@ -47,7 +47,7 @@
   <td width="160" align="center">vue<br />Vue</td>
   <td width="160" align="center">react<br />React</td>
 </tr><tr>
-  <td align="center"><a href="https://github.com/golang-cool" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75879141?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/cool-go" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75879141?s=200&v=4" width="50" /></a></td>
   <td align="center"></td>
   <td align="center"></td>
   <td align="center"></td>
