@@ -10,11 +10,11 @@
 
 若您心仪的萌物没在以下列表内，欢迎在 [issue][issue-new] 中提出。
 
-## ✨ 萌物列表 <kbd>207</kbd>
+## ✨ 萌物列表 <kbd>206</kbd>
 
 <!-- START -->
 
-### 技术 <kbd>13</kbd>
+### 技术 <kbd>12</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/awesome-cool" target="_blank"><img src="https://avatars0.githubusercontent.com/u/76770272?s=200&v=4" width="50" /></a></td>
@@ -46,21 +46,6 @@
   <td width="160" align="center">C#<br />C#</td>
   <td width="160" align="center">vue<br />Vue</td>
   <td width="160" align="center">react<br />React</td>
-</tr><tr>
-  <td align="center"><a href="https://github.com/cool-go" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75879141?s=200&v=4" width="50" /></a></td>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"></td>
-  <td align="center"></td>
-</tr>
-<tr>
-  <td width="160" align="center">go<br />go</td>
-  <td width="160" align="center"></td>
-  <td width="160" align="center"></td>
-  <td width="160" align="center"></td>
-  <td width="160" align="center"></td>
-  <td width="160" align="center"></td>
 </tr></table>
 
 ### 生活 <kbd>74</kbd>
