@@ -268,7 +268,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td align="center"><a href="https://github.com/butterfly-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70750798?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/camel-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752397?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/canary-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70757575?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/capybara-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75229212?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/capybara-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75229212?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/cat-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/72658591?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/cattle-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70751211?s=200&v=4" width="50" /></a></td>
 </tr>
