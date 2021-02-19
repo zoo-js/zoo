@@ -46,7 +46,7 @@ async function main() {
     let val = targetArr[i];
 
     if (val.startsWith('GitHub Email:')) {
-      email = val.replace('GitHub Email: ', '');
+      email = val.replace('GitHub Email:', '').trim();
       console.log(`Get: email is ${email}!`);
     } 
     if (email && val.startsWith('1.') && val.length > 3) {
