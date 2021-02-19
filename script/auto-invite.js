@@ -50,19 +50,19 @@ async function main() {
       console.log(`Get: email is ${email}!`);
     } 
     if (email && val.startsWith('1.') && val.length > 3) {
-      pet1 = val.replace('1. ', '');
+      pet1 = val.replace('1.', '').trim();
     }
     if (email && val.startsWith('2.') && val.length > 3) {
-      pet2 = val.replace('2. ', '');
+      pet2 = val.replace('2.', '').trim();
     }
     if (email && val.startsWith('3.') && val.length > 3) {
-      pet3 = val.replace('3. ', '');
+      pet3 = val.replace('3.', '').trim();
     }
     if (email && val.startsWith('4.') && val.length > 3) {
-      pet4 = val.replace('4. ', '');
+      pet4 = val.replace('4.', '').trim();
     }
     if (email && val.startsWith('5.') && val.length > 3) {
-      pet5 = val.replace('5. ', '');
+      pet5 = val.replace('5.', '').trim();
       break;
     }
   }
