@@ -39,26 +39,26 @@ async function main() {
     let val = targetArr[i];
 
     if (val.startsWith('GitHub Email:')) {
-      email = val.replace('GitHub Email: ', '');
+      email = val.replace('GitHub Email:', '').trim();
     }
     if (email && val.startsWith('1.') && val.length > 3) {
-      pet1 = val.replace('1. ', '');
+      pet1 = val.replace('1.', '').trim();
       if (pet1) { userNowApp += 1; }
     }
     if (email && val.startsWith('2.') && val.length > 3) {
-      pet2 = val.replace('2. ', '');
+      pet2 = val.replace('2.', '').trim();
       if (pet2) { userNowApp += 1; }
     }
     if (email && val.startsWith('3.') && val.length > 3) {
-      pet3 = val.replace('3. ', '');
+      pet3 = val.replace('3.', '').trim();
       if (pet3) { userNowApp += 1; }
     }
     if (email && val.startsWith('4.') && val.length > 3) {
-      pet4 = val.replace('4. ', '');
+      pet4 = val.replace('4.', '').trim();
       if (pet4) { userNowApp += 1; }
     }
     if (email && val.startsWith('5.') && val.length > 3) {
-      pet5 = val.replace('5. ', '');
+      pet5 = val.replace('5.', '').trim();
       if (pet5) { userNowApp += 1; }
       break;
     }
