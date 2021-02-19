@@ -11,7 +11,7 @@ const issueBody = `🎈 Hi, @${issueAuth}. We cannot accurately obtain your emai
 
 - Requirement：
   - email: Add a space after the English colon, add email
-  - pets: Add a period after the number, and add pet abbreviation
+  - pets: Add a period and space after the number, and add pet abbreviation
 
 ---
 
@@ -19,7 +19,7 @@ const issueBody = `🎈 Hi, @${issueAuth}. We cannot accurately obtain your emai
 
 - 格式要求：
   - email: 英文冒号后加空格，加邮箱
-  - pets: 数字后加英文句号，加 pet 英文简称
+  - pets: 数字后加英文句号空格，再加 pet 英文简称
 
 ---
 
