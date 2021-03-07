@@ -40,15 +40,14 @@ async function main() {
 
     if (val.startsWith('GitHub Email:')) {
       email = val.replace('GitHub Email:', '').trim();
-    } else {
-      console.log('Error: email is empty!')
     }
 
     if (email && val.startsWith('1.') && val.length > 3) {
       pet1 = val.replace('1.', '').trim();
       if (pet1) {
         if (getPetFullName(pet1)) {
-          userNowApp += 1; 
+          userNowApp += 1;
+          console.log(`Get 1 ${pet1}`);
         } else {
           console.log(`Get ${pet1} full err`);
           userNowApp = 0;
@@ -61,6 +60,7 @@ async function main() {
       if (pet2) {
         if (getPetFullName(pet2)) {
           userNowApp += 1; 
+          console.log(`Get 2 ${pet1}`);
         } else {
           console.log(`Get ${pet2} full err`);
           userNowApp = 0;
@@ -73,6 +73,7 @@ async function main() {
       if (pet3) {
         if (getPetFullName(pet3)) {
           userNowApp += 1; 
+          console.log(`Get 3 ${pet1}`);
         } else {
           console.log(`Get ${pet3} full err`);
           userNowApp = 0;
@@ -85,6 +86,7 @@ async function main() {
       if (pet4) {
         if (getPetFullName(pet4)) {
           userNowApp += 1; 
+          console.log(`Get0 4 ${pet1}`);
         } else {
           console.log(`Get ${pet4} full err`);
           userNowApp = 0;
@@ -97,6 +99,7 @@ async function main() {
       if (pet5) {
         if (getPetFullName(pet5)) {
           userNowApp += 1; 
+          console.log(`Get 5 ${pet1}`);
         } else {
           console.log(`Get ${pet5} full err`);
           userNowApp = 0;
@@ -107,9 +110,9 @@ async function main() {
     }
   }
 
-  const emailExp = new RegExp('^([a-zA-Z0-9]+[_|\\_|\\.]?)*[a-zA-Z0-9]+@([a-zA-Z0-9]+[_|\\_|\\.]?)*[a-zA-Z0-9]+\\.[a-zA-Z]{2,3}$', '');
+  // const emailExp = new RegExp('^([a-zA-Z0-9]+[_|\\_|\\.]?)*[a-zA-Z0-9]+@([a-zA-Z0-9]+[_|\\_|\\.]?)*[a-zA-Z0-9]+\\.[a-zA-Z]{2,3}$', '');
 
-  if (!email || !emailExp.test(email) || (userNowApp === 0)) {
+  if (!email || (userNowApp === 0)) {
     console.log(`Error: check application field!`);
     await octokit.issues.createComment({
       owner,
