@@ -67,9 +67,9 @@ async function main() {
     }
   }
 
-  const emailExp = new RegExp('^([a-zA-Z0-9]+[_|\\_|\\.]?)*[a-zA-Z0-9]+@([a-zA-Z0-9]+[_|\\_|\\.]?)*[a-zA-Z0-9]+\\.[a-zA-Z]{2,3}$', '');
+  // const emailExp = new RegExp('^([a-zA-Z0-9]+[_|\\_|\\.]?)*[a-zA-Z0-9]+@([a-zA-Z0-9]+[_|\\_|\\.]?)*[a-zA-Z0-9]+\\.[a-zA-Z]{2,3}$', '');
 
-  if ((!email || !emailExp.test(email)) || (!pet1 && !pet2 && !pet3 && !pet4 && !pet5)) {
+  if ((!email || (!pet1 && !pet2 && !pet3 && !pet4 && !pet5)) {
     core.info('Error: check auto invited failed!');
     await octokit.issues.createComment({
       owner,
