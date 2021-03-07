@@ -64,9 +64,9 @@ async function main() {
     }
   }
 
-  const emailExp = new RegExp('^([a-zA-Z0-9]+[_|\\_|\\.]?)*[a-zA-Z0-9]+@([a-zA-Z0-9]+[_|\\_|\\.]?)*[a-zA-Z0-9]+\\.[a-zA-Z]{2,3}$', '');
+  // const emailExp = new RegExp('^([a-zA-Z0-9]+[_|\\_|\\.]?)*[a-zA-Z0-9]+@([a-zA-Z0-9]+[_|\\_|\\.]?)*[a-zA-Z0-9]+\\.[a-zA-Z]{2,3}$', '');
 
-  if (!email || !emailExp.test(email) || (userNowApp === 0)) {
+  if (!email || (userNowApp === 0)) {
     await octokit.issues.createComment({
       owner,
       repo,
