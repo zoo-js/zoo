@@ -31,7 +31,7 @@ async function main() {
     issue_number: issueNumber
   });
 
-  const creator = res.data.issue.user.login;
+  const creator = res.data.user.login;
 
   const { data: issues } = await octokit.issues.listForRepo({
     owner,
@@ -45,6 +45,12 @@ async function main() {
       repo,
       issue_number: issueNumber,
       body: `Please do not apply again, thank you for your cooperation! \n\n 请勿重复申请，谢谢配合！`,
+    });
+    await octokit.issues.update({
+      owner,
+      repo,
+      issue_number: issueNumber,
+      state: 'closed'
     });
     return false
   }
