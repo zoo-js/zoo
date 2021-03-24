@@ -37,6 +37,7 @@ async function main() {
     owner,
     repo,
     creator,
+    state: 'all'
   })
 
   if (issues.length > 1) {
