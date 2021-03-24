@@ -31,6 +31,24 @@ async function main() {
     issue_number: issueNumber
   });
 
+  const creator = res.data.issue.user.login;
+
+  const { data: issues } = await octokit.issues.listForRepo({
+    owner,
+    repo,
+    creator,
+  })
+
+  if (issues.length > 1) {
+    await octokit.issues.createComment({
+      owner,
+      repo,
+      issue_number: issueNumber,
+      body: `Please do not apply again, thank you for your cooperation! \n\n 请勿重复申请，谢谢配合！`,
+    });
+    return false
+  }
+
   const targetArr = res.data.body.split('\r\n');
   var email, pet1, pet2, pet3, pet4, pet5;
   let userNowApp = 0; // user application number
@@ -59,7 +77,7 @@ async function main() {
       pet2 = val.replace('2.', '').trim();
       if (pet2) {
         if (getPetFullName(pet2)) {
-          userNowApp += 1; 
+          userNowApp += 1;
           console.log(`Get 2 ${pet1}`);
         } else {
           console.log(`Get ${pet2} full err`);
@@ -72,7 +90,7 @@ async function main() {
       pet3 = val.replace('3.', '').trim();
       if (pet3) {
         if (getPetFullName(pet3)) {
-          userNowApp += 1; 
+          userNowApp += 1;
           console.log(`Get 3 ${pet1}`);
         } else {
           console.log(`Get ${pet3} full err`);
@@ -85,7 +103,7 @@ async function main() {
       pet4 = val.replace('4.', '').trim();
       if (pet4) {
         if (getPetFullName(pet4)) {
-          userNowApp += 1; 
+          userNowApp += 1;
           console.log(`Get0 4 ${pet1}`);
         } else {
           console.log(`Get ${pet4} full err`);
@@ -98,7 +116,7 @@ async function main() {
       pet5 = val.replace('5.', '').trim();
       if (pet5) {
         if (getPetFullName(pet5)) {
-          userNowApp += 1; 
+          userNowApp += 1;
           console.log(`Get 5 ${pet1}`);
         } else {
           console.log(`Get ${pet5} full err`);
