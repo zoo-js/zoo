@@ -45,7 +45,7 @@ async function main() {
       owner,
       repo,
       issue_number: issueNumber,
-      body: `Please do not apply again, thank you for your cooperation! \n\n 请勿重复申请，谢谢配合！`,
+      body: `Please do not apply again, thank you for your cooperation! \n\n 请勿重复申请，谢谢配合！若想申请多个，请在原 issue 里评论提出申请！`,
     });
     await octokit.issues.update({
       owner,
