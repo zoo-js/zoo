@@ -251,7 +251,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
 
 <table><tr>
   <td align="center"><a href="https://github.com/alpaca-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752315?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/ant-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70746215?s=200&v=4" width="50" /></a></td>
+  <td align="center">-</td>
   <td align="center"><a href="https://github.com/bat-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70783585?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/bear-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70750582?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/beetle-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/70752362?s=200&v=4" width="50" /></a></td>
@@ -259,7 +259,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
 </tr>
 <tr>
   <td width="160" align="center">alpaca<br />羊驼</td>
-  <td width="160" align="center">ant<br />蚂蚁</td>
+  <td width="160" align="center">-</td>
   <td width="160" align="center">bat<br />蝙蝠</td>
   <td width="160" align="center">bear<br />熊</td>
   <td width="160" align="center">beetle<br />甲壳虫</td>
