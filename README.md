@@ -1,4 +1,4 @@
-# 🌈 萌萌乐园
+# 🌈 萌萌乐园 [![Gitter](https://badges.gitter.im/zoo-js/community.svg)](https://gitter.im/zoo-js/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 萌萌乐园开业啦，想拥有下面各种萌物吗？快来领取哦。
 
