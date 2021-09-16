@@ -46,7 +46,14 @@
   <td width="160" align="center">C#<br />C#</td>
   <td width="160" align="center">vue<br />Vue</td>
   <td width="160" align="center">react<br />React</td>
-</tr></table>
+</tr>
+<tr>
+  <td align="center"><a href="https://github.com/cool-cpp" target="_blank"><img src="https://avatars.githubusercontent.com/u/90814306?s=200&v=4" width="50" /></a></td>
+  </tr>
+  <tr>
+    <td width="160" align="center">c++<br />c++</td>
+  </tr>
+</table>
 
 ### 生活 <kbd>74</kbd>
 
