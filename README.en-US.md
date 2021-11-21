@@ -104,7 +104,7 @@ If your favorite pet is not in the following list, please raise it in the [issue
   <td align="center"><a href="https://github.com/paper-js" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74776672?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
-  <td width="160" align="center">gundam<br />飞机</td>
+  <td width="160" align="center">gundam<br />高达</td>
   <td width="160" align="center">rocket<br />火箭</td>
   <td width="160" align="center">satellite<br />卫星</td>
   <td width="160" align="center">rubikcube<br />魔方</td>
