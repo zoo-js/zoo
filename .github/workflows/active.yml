@@ -1,0 +1,21 @@
+name: Active Update
+
+on: workflow_dispatch
+
+jobs:
+  up:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - run: yarn
+      - run: node ./active-script/update-readme.js
+
+      - name: Commit and push if changed
+        run: |-
+          git diff
+          git config --global user.email "xrkffgg@163.com"
+          git config --global user.name "zoo-js-bot"
+          git pull
+          git add -A
+          git commit -m "🤖 auto: updated readme" || exit 0
+          git push
