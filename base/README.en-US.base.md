@@ -1,4 +1,4 @@
-# 🌈 Cute zoo
+# 🌈 Cute zoo [![Gitter](https://badges.gitter.im/zoo-js/community.svg)](https://gitter.im/zoo-js/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 The cute pet zoo has opened, do you want to have the cute pets below? Come and adopt it.
 
