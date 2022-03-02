@@ -31,7 +31,7 @@ async function main() {
   if (res.data.state != 'open') return false;
   if (JSON.stringify(res.data.labels).indexOf('need accurate info') == -1) return false;
 
-  const targetArr = res.data.body.split('\r\n');
+  const targetArr = res.data.body.split(/\r?\n/);
   var email, pet1, pet2, pet3, pet4, pet5;
   let userNowApp = 0; // user application number
 
