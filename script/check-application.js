@@ -56,7 +56,7 @@ async function main() {
     return false
   }
 
-  const targetArr = res.data.body.split('\r\n');
+  const targetArr = res.data.body.split(/\r?\n/);
   var email, pet1, pet2, pet3, pet4, pet5;
   let userNowApp = 0; // user application number
 
