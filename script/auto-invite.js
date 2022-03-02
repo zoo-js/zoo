@@ -39,7 +39,7 @@ async function main() {
     issue_number: issueNumber
   });
 
-  const targetArr = res.data.body.split('\r\n');
+  const targetArr = res.data.body.split(/\r?\n/);
   var email, pet1, pet2, pet3, pet4, pet5;
 
   for (var i = 0; i < targetArr.length; i++) {
