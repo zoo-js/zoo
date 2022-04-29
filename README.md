@@ -10,11 +10,11 @@
 
 若您心仪的萌物没在以下列表内，欢迎在 [issue][issue-new] 中提出。
 
-## ✨ 萌物列表 <kbd>207</kbd>
+## ✨ 萌物列表 <kbd>208</kbd>
 
 <!-- START -->
 
-### 技术 <kbd>13</kbd>
+### 技术 <kbd>14</kbd>
 
 <table><tr>
   <td align="center"><a href="https://github.com/awesome-cool" target="_blank"><img src="https://avatars0.githubusercontent.com/u/76770272?s=200&v=4" width="50" /></a></td>
@@ -34,29 +34,29 @@
 </tr><tr>
   <td align="center"><a href="https://github.com/html-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74940766?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/js-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74909967?s=200&v=4" width="50" /></a></td>
+  <td align="center"><a href="https://github.com/ts-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/104607604?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/css-love" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74939759?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/c-cool" target="_blank"><img src="https://avatars0.githubusercontent.com/u/75880060?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/cool-cpp" target="_blank"><img src="https://avatars0.githubusercontent.com/u/90814306?s=200&v=4" width="50" /></a></td>
-  <td align="center"><a href="https://github.com/love-vue" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74940734?s=200&v=4" width="50" /></a></td>
 </tr>
 <tr>
   <td width="160" align="center">html<br />HTML</td>
   <td width="160" align="center">js<br />JS</td>
+  <td width="160" align="center">ts<br />TS</td>
   <td width="160" align="center">css<br />CSS</td>
   <td width="160" align="center">C#<br />C#</td>
   <td width="160" align="center">C++<br />C++</td>
-  <td width="160" align="center">vue<br />Vue</td>
 </tr><tr>
+  <td align="center"><a href="https://github.com/love-vue" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74940734?s=200&v=4" width="50" /></a></td>
   <td align="center"><a href="https://github.com/LoveReact" target="_blank"><img src="https://avatars0.githubusercontent.com/u/74940835?s=200&v=4" width="50" /></a></td>
   <td align="center"></td>
   <td align="center"></td>
   <td align="center"></td>
   <td align="center"></td>
-  <td align="center"></td>
 </tr>
 <tr>
+  <td width="160" align="center">vue<br />Vue</td>
   <td width="160" align="center">react<br />React</td>
-  <td width="160" align="center"></td>
   <td width="160" align="center"></td>
   <td width="160" align="center"></td>
   <td width="160" align="center"></td>
