@@ -12,8 +12,10 @@ const issueAuth = ISSUE_AUTH || 'xrkffgg';
 const issueNumber = ISSUE_NUMBER || 149;
 
 const issueBody = `🎉 Hi, @${issueAuth}. The invitation has been sent to the specified email address, please check! This issue will be closed. If you have any questions, please comment below.
+😍 If you find it interesting, welcome to Star.
 
 🎉 你好，@${issueAuth}。邀请已发送到指定邮箱，请查收！这个 issue 将要被关闭，如果你有任何问题，欢迎在下方评论。
+😍 如果觉得有趣，欢迎 Star。
 
 <!-- Created by zoo-js-bot with GitHub Actios. -->
 `;
